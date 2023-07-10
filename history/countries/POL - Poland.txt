@@ -59,16 +59,16 @@ if = {
 set_convoys = 10
 
 set_politics = {
-	ruling_party = neutrality
-	last_election = "1935.9.8"
-	election_frequency = 36
-	elections_allowed = no
+	ruling_party = democratic
+	last_election = "2019.10.13"
+	election_frequency = 48
+	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 32
-	fascism = 11
-	communism = 19
-	neutrality = 38
+	democratic = 80
+	fascism = 10
+	communism = 5
+	neutrality = 5
 }
 
 recruit_character = POL_ignacy_moscicki

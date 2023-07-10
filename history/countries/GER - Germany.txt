@@ -197,17 +197,17 @@ if = {
 	}
 }
 set_politics = {
-	ruling_party = fascism
-	last_election = "1934.3.26"
-	election_frequency = 60
-	elections_allowed = no
+	ruling_party = democratic
+	last_election = "2021.9.26"
+	election_frequency = 48
+	elections_allowed = yes
 }
 
 set_popularities = {
 	neutrality = 0
-	fascism = 60
-	democratic = 20
-	communism = 20
+	fascism = 10
+	democratic = 80
+	communism = 10
 }
 
 
