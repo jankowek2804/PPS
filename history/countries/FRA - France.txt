@@ -160,45 +160,6 @@ set_popularities = {
 	communism = 20
 }
 
-if = {
-	limit = { has_dlc = "Together for Victory" }
-	set_autonomy = {
-		target = SYR
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = ALW
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = JDZ
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = LEB
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = MOR
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = TUN
-		autonomous_state = autonomy_colony
-	}
-	set_autonomy = {
-		target = MRT
-		autonomous_state = autonomy_colony
-	}
-	else = {
-		puppet = SYR
-		puppet = JDZ
-		puppet = ALW
-		puppet = LEB
-		puppet = MOR
-		puppet = TUN
-	}
-}
 
 recruit_character = FRA_philippe_petain
 recruit_character = FRA_maurice_thorez

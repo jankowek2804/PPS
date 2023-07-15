@@ -1,6 +1,5 @@
 ﻿capital = 1340
 
-set_cosmetic_tag = MRT_FR
 #oob = ""
 
 # Starting tech
