@@ -72,7 +72,7 @@ guiTypes = {
 				font = "hoi4_typewriter16"
 				borderSize = {x = 0 y = 0}
 				text = "Long text here!"	
-				maxWidth = 350
+				maxWidth = 337
 				maxHeight = 1000
 				format = left
 			}

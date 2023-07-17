@@ -12,7 +12,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_event_pic_clip"
-		texturefile = "gfx/interface/event_pic_clip.dds"
+		texturefile = "gfx/interface/ramka.dds"
 	}
 
 	spriteType = {
