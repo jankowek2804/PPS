@@ -1,0 +1,41 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_news_event_polska_w_chaosie"
+		texturefile = "gfx/event_pictures/polska_w_chaosie.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_news_event_konfa_podkarpacie"
+		texturefile = "gfx/event_pictures/konfa_podkarpacie.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_news_event_marsz_tuska"
+		texturefile = "gfx/event_pictures/marsz_tuska.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_news_event_konon_w_kasku"
+		texturefile = "gfx/event_pictures/konon_w_kasku.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_news_event_stonoga_przemowienie"
+		texturefile = "gfx/event_pictures/stonoga_przemowienie.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_news_event_wsciekly_ziobro"
+		texturefile = "gfx/event_pictures/wsciekly_ziobro.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_news_event_walesa_salut"
+		texturefile = "gfx/event_pictures/walesa_salut.dds"
+	}
+}
+
+
+
+
