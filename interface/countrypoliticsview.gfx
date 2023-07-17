@@ -455,6 +455,47 @@ spriteTypes = {
 	}
 
 	####TUTAJ
+	spriteType = {
+		name = "GFX_ideology_communism_group"
+		texturefile = "gfx/interface/ideologies/marx_len.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_socialism_group"
+		texturefile = "gfx/interface/ideologies/socialism.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_nazbol_group"
+		texturefile = "gfx/interface/ideologies/nazbol.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_stalinism_group"
+		texturefile = "gfx/interface/ideologies/stalinism.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_trockizm_group"
+		texturefile = "gfx/interface/ideologies/trockizm.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_ideology_bolshevizm_group"
+		texturefile = "gfx/interface/ideologies/bolshevizm.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_maoism_group"
+		texturefile = "gfx/interface/ideologies/maoism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_fascism_group"
+		texturefile = "gfx/interface/ideologies/fascism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_nazism_group"
+		texturefile = "gfx/interface/ideologies/nazism.dds"
+	}
 	
 	spriteType = {
 		name = "GFX_ideology_unknown"
