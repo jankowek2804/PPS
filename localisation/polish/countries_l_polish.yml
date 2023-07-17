@@ -1,0 +1,3907 @@
+﻿l_polish:
+
+ ###Abchazja
+
+   #COMMUNISM
+
+    ABK_communism:0 "Socjalistyczna Republika Abchazji"
+    ABK_communism_DEF:0 "Socjalistyczna Republika Abchazji"
+    ABK_communism_ADJ:0 "Abchaski"
+
+   #DEMOCRATIC
+
+    ABK_democratic:0 "Republika Abchazja"
+    ABK_democratic_DEF:0 "Republika Abchazja"
+    ABK_democratic_ADJ:0 "Abchaski"
+
+   #FASCISM
+
+    ABK_fascism:0 "Legionowe Państwo Abchazja"
+    ABK_fascism_DEF:0 "Legionowe Państwo Abchazja"
+    ABK_fascism_ADJ:0 "Abchaski"
+
+   #NEUTRALITY
+
+    ABK_neutrality:0 "Republika Abchazji"
+    ABK_neutrality_DEF:0 "Republika Abchazji"
+    ABK_neutrality_ADJ:0 "Abchaski"
+
+   #TAG
+
+    ABK:0 "Abchazja"
+    ABK_DEF:0 "Pańśtwo Abchazji"
+    ABK_ADJ:0 "Abchaski"
+
+ ###ALBANIA
+
+   #COMMUNISM
+
+    ALB_communism:0 "Ludowa Republika Albanii"
+    ALB_communism_DEF:0 "Ludowa Republika Albanii"
+    ALB_communism_ADJ:0 "Albański"
+
+   #DEMOCRATIC
+
+    ALB_democratic:0 "Republika Albanii"
+    ALB_democratic_DEF:0 "Republika Albanii"
+    ALB_democratic_ADJ:0 "Albański"
+
+   #FASCISM
+
+    ALB_fascism:0 "Państwo Albańskie"
+    ALB_fascism_DEF:0 "Państwo Albańskie"
+    ALB_fascism_ADJ:0 "Albański"
+
+   #NEUTRALITY
+
+    ALB_neutrality:0 "Albański Królestwo"
+    ALB_neutrality_DEF:0 "Albański Królestwo"
+    ALB_neutrality_ADJ:0 "Albański"
+
+   #TAG
+
+    ALB:0 "Albania"
+    ALB_DEF:0 "Państwo Albańskie"
+    ALB_ADJ:0 "Albański"
+
+ ###ALGERIA
+
+   #COMMUNISM
+
+    ALG_communism:0 "Algierska Ludowa Republika"
+    ALG_communism_DEF:0 "Algierska Ludowa Republika"
+    ALG_communism_ADJ:0 "Algierska"
+
+   #DEMOCRATIC
+
+    ALG_democratic:0 "Algierska Ludowa Republika"
+    ALG_democratic_DEF:0 "Algierska Ludowa Republika"
+    ALG_democratic_ADJ:0 "Algierska"
+
+   #FASCISM
+
+    ALG_fascism:0 "Algierska Ludowa Republika"
+    ALG_fascism_DEF:0 "Algierska Ludowa Republika"
+    ALG_fascism_ADJ:0 "Algierska"
+
+   #NEUTRALITY
+
+    ALG_neutrality:0 "Algierska Ludowa Republika"
+    ALG_neutrality_DEF:0 "Algierska Ludowa Republika"
+    ALG_neutrality_ADJ:0 "Algierska"
+
+   #TAG
+
+    ALG:0 "Algeria"
+    ALG_DEF:0 "Państwo Algierii"
+    ALG_ADJ:0 "Algierska"
+
+ ###Ameryka
+
+   #COMMUNISM
+
+    USA_communism:0 "Zjednoczone Socjalistyczne Stany Ameryki"
+    USA_communism_DEF:0 "Zjednoczone Socjalistyczne Stany Ameryki"
+    USA_communism_ADJ:0 "Amerykańskie"
+
+   #DEMOCRATIC
+
+    USA_democratic:0 "Stany Zjednoczone Ameryki"
+    USA_democratic_DEF:0 "Stany Zjednoczone Ameryki"
+    USA_democratic_ADJ:0 "Amerykańskie"
+
+   #FASCISM
+
+    USA_fascism:0 "Wspólnota Ameryki"
+    USA_fascism_DEF:0 "Wspólnota Ameryki"
+    USA_fascism_ADJ:0 "Amerykańskie"
+
+   #NEUTRALITY
+
+    USA_neutrality:0 "Stany Zjednoczone Ameryki"
+    USA_neutrality_DEF:0 "Stany Zjednoczone Ameryki"
+    USA_neutrality_ADJ:0 "Amerykańskie"
+
+   #TAG
+
+    USA:0 "Ameryka"
+    USA_DEF:0 "Amerykańskie Stany"
+    USA_ADJ:0 "Amerykańskie"
+
+  ##CONFEDERACY
+
+   #COMMUNISM
+
+    CSA_communism:0 "Unia Południowa Socjalistyczna Stany"
+    CSA_communism_DEF:0 "Unia Południowa Socjalistyczna Stany"
+    CSA_communism_ADJ:0 "Południowa Amerykańskie"
+
+   #DEMOCRATIC
+
+    CSA_democratic:0 "Konfederacja Stany Ameryka"
+    CSA_democratic_DEF:0 "Konfederacja Stany Ameryka"
+    CSA_democratic_ADJ:0 "Konfederacja"
+
+   #FASCISM
+
+    CSA_fascism:0 "Konfederacja Stany Ameryka"
+    CSA_fascism_DEF:0 "Konfederacja Stany Ameryka"
+    CSA_fascism_ADJ:0 "Konfederacja"
+
+   #NEUTRALITY
+
+    CSA_neutrality:0 "Konfederacja Stany Ameryka"
+    CSA_neutrality_DEF:0 "Konfederacja Stany Ameryka"
+    CSA_neutrality_ADJ:0 "Konfederacja"
+
+   #TAG
+
+    CSA:0 "Południowa Ameryka"
+    CSA_DEF:0 "Konfederacja Amerykańskie Stany"
+    CSA_ADJ:0 "Konfederacja"
+
+ ###ANDALUSIA
+
+   #COMMUNISM
+
+    ADU_communism:0 "Andaluzyjskie Socjalistyczne Państwo"
+    ADU_communism_DEF:0 "Andaluzyjskie Socjalistyczne Państwo"
+    ADU_communism_ADJ:0 "Andaluzyjskie"
+
+   #DEMOCRATIC
+
+    ADU_democratic:0 "Republika Andalusia"
+    ADU_democratic_DEF:0 "Republika Andalusia"
+    ADU_democratic_ADJ:0 "Andaluzyjskie"
+
+   #FASCISM
+
+    ADU_fascism:0 "Andaluzyjskie Państwo"
+    ADU_fascism_DEF:0 "Andaluzyjskie Państwo"
+    ADU_fascism_ADJ:0 "Andaluzyjskie"
+
+   #NEUTRALITY
+
+    ADU_neutrality:0 "Andaluzyjskie Państwo"
+    ADU_neutrality_DEF:0 "Andaluzyjskie Państwo"
+    ADU_neutrality_ADJ:0 "Andaluzyjskie"
+
+   #TAG
+
+    ADU:0 "Andalusia"
+    ADU_DEF:0 "Andaluzyjskie Państwo"
+    ADU_ADJ:0 "Andaluzyjskie"
+
+ ###Armeńska
+
+   #COMMUNISM
+
+    ARM_communism:0 "Armeńska Socjalistyczna Republika"
+    ARM_communism_DEF:0 "Armeńska Socjalistyczna Republika"
+    ARM_communism_ADJ:0 "Armeńska"
+
+   #DEMOCRATIC
+
+    ARM_democratic:0 "Republika Armeńska"
+    ARM_democratic_DEF:0 "Republika Armeńska"
+    ARM_democratic_ADJ:0 "Armeńska"
+
+   #FASCISM
+
+    ARM_fascism:0 "Armeńskie Państwo"
+    ARM_fascism_DEF:0 "Armeńskie Państwo"
+    ARM_fascism_ADJ:0 "Armeńska"
+
+   #NEUTRALITY
+
+    ARM_neutrality:0 "Republika Armeńska"
+    ARM_neutrality_DEF:0 "Republika Armeńska"
+    ARM_neutrality_ADJ:0 "Armeńska"
+
+   #TAG
+
+    ARM:0 "Armeńska"
+    ARM_DEF:0 "Armeńskie Państwo"
+    ARM_ADJ:0 "Armeńska"
+
+ ###AUSTRIA
+
+   #COMMUNISM
+
+    AUS_communism:0 "Austriacka Socjalistyczna Republika"
+    AUS_communism_DEF:0 "Austriacka Socjalistyczna Republika"
+    AUS_communism_ADJ:0 "Austriacka"
+
+   #DEMOCRATIC
+
+    AUS_democratic:0 "Republika Austrii"
+    AUS_democratic_DEF:0 "Republika Austrii"
+    AUS_democratic_ADJ:0 "Austriacka"
+
+   #FASCISM
+
+    AUS_fascism:0 "Federalne Państwo Austrii"
+    AUS_fascism_DEF:0 "Federalne Państwo Austrii"
+    AUS_fascism_ADJ:0 "Austriacka"
+
+   #NEUTRALITY
+
+    AUS_neutrality:0 "Federalne Państwo Austrii"
+    AUS_neutrality_DEF:0 "Federalne Państwo Austrii"
+    AUS_neutrality_ADJ:0 "Austriacka"
+
+   #TAG
+
+    AUS:0 "Austria"
+    AUS_DEF:0 "Austriackie Państwo"
+    AUS_ADJ:0 "Austriacka"
+
+ ###Azerbejdżańskia
+
+   #COMMUNISM
+
+    AZR_communism:0 "Azerbejdżańskia Socjalistyczna Republika"
+    AZR_communism_DEF:0 "Azerbejdżańskia Socjalistyczna Republika"
+    AZR_communism_ADJ:0 "Azerbejdżańskie"
+
+   #DEMOCRATIC
+
+    AZR_democratic:0 "Azerbejdżańskia Demokratyczna Republika"
+    AZR_democratic_DEF:0 "Azerbejdżańskia Demokratyczna Republika"
+    AZR_democratic_ADJ:0 "Azerbejdżańskie"
+
+   #FASCISM
+
+    AZR_fascism:0 "Legionowe Państwo Azerbejdżańskie"
+    AZR_fascism_DEF:0 "Legionowe Państwo Azerbejdżańskie"
+    AZR_fascism_ADJ:0 "Azerbejdżańskie"
+
+   #NEUTRALITY
+
+    AZR_neutrality:0 "Azerbejdżańskia Demokratyczna Republika"
+    AZR_neutrality_DEF:0 "Azerbejdżańskia Demokratyczna Republika"
+    AZR_neutrality_ADJ:0 "Azerbejdżańskie"
+
+   #TAG
+
+    AZR:0 "Azerbejdżańskia"
+    AZR_DEF:0 "Azerbejdżańskie Państwo"
+    AZR_ADJ:0 "Azerbejdżańskie"
+
+ ###BASHKIRIA
+
+   #COMMUNISM
+
+    BSK_communism:0 "Baszkirska Socjalistyczna Republika"
+    BSK_communism_DEF:0 "Baszkirska Socjalistyczna Republika"
+    BSK_communism_ADJ:0 "Baszkirska"
+
+   #DEMOCRATIC
+
+    BSK_democratic:0 "Republika Baszkirska"
+    BSK_democratic_DEF:0 "Republika Baszkirska"
+    BSK_democratic_ADJ:0 "Baszkirska"
+
+   #FASCISM
+
+    BSK_fascism:0 "Baszkirskie Państwo"
+    BSK_fascism_DEF:0 "Baszkirskie Państwo"
+    BSK_fascism_ADJ:0 "Baszkirska"
+
+   #NEUTRALITY
+
+    BSK_neutrality:0 "Republika Baszkirska"
+    BSK_neutrality_DEF:0 "Republika Baszkirska"
+    BSK_neutrality_ADJ:0 "Baszkirska"
+
+   #TAG
+
+    BSK:0 "Baszkirska"
+    BSK_DEF:0 "Baszkirskie Państwo"
+    BSK_ADJ:0 "Baszkirska"
+
+ ###BASQUE COUNTRY
+
+   #COMMUNISM
+
+    NAV_communism:0 "Baskijska Komuna"
+    NAV_communism_DEF:0 "Baskijska Komuna"
+    NAV_communism_ADJ:0 "Baskijska"
+
+   #DEMOCRATIC
+
+    NAV_democratic:0 "Baskijska Republika"
+    NAV_democratic_DEF:0 "Baskijska Republika"
+    NAV_democratic_ADJ:0 "Baskijska"
+
+   #FASCISM
+
+    NAV_fascism:0 "Baskijskie Państwo"
+    NAV_fascism_DEF:0 "Baskijskie Państwo"
+    NAV_fascism_ADJ:0 "Baskijska"
+
+   #NEUTRALITY
+
+    NAV_neutrality:0 "Królestwo Nawarra"
+    NAV_neutrality_DEF:0 "Królestwo Nawarra"
+    NAV_neutrality_ADJ:0 "Nawarrska"
+
+   #TAG
+
+    NAV:0 "Baskijskie Państwo"
+    NAV_DEF:0 "Baskijska Państwo"
+    NAV_ADJ:0 "Baskijska"
+
+ ###BAVARIA
+
+   #COMMUNISM
+
+    BAY_communism:0 "Bawarska Radna Republika"
+    BAY_communism_DEF:0 "Bawarska Radna Republika"
+    BAY_communism_ADJ:0 "Bawarska"
+
+   #DEMOCRATIC
+
+    BAY_democratic:0 "Wolne Państwo Bawaria"
+    BAY_democratic_DEF:0 "Wolne Państwo Bawaria"
+    BAY_democratic_ADJ:0 "Bawarska"
+
+   #FASCISM
+
+    BAY_fascism:0 "Bawarskie Państwo"
+    BAY_fascism_DEF:0 "Bawarskie Państwo"
+    BAY_fascism_ADJ:0 "Bawarska"
+
+   #NEUTRALITY
+
+    BAY_neutrality:0 "Wolne Państwo Bawaria"
+    BAY_neutrality_DEF:0 "Wolne Państwo Bawaria"
+    BAY_neutrality_ADJ:0 "Bawarska"
+
+   #TAG
+
+    BAY:0 "Bawaria"
+    BAY_DEF:0 "Bawarskie Państwo"
+    BAY_ADJ:0 "Bawarska"
+
+ ###BELGIUM
+
+   #COMMUNISM
+
+    BEL_communism:0 "Belgijska Socjalistyczna Republika"
+    BEL_communism_DEF:0 "Belgijska Socjalistyczna Republika"
+    BEL_communism_ADJ:0 "Belgijska"
+
+   #DEMOCRATIC
+
+    BEL_democratic:0 "Królestwo Belgii"
+    BEL_democratic_DEF:0 "Królestwo Belgii"
+    BEL_democratic_ADJ:0 "Belgijska"
+
+   #FASCISM
+
+    BEL_fascism:0 "Królestwo Belgii"
+    BEL_fascism_DEF:0 "Królestwo Belgii"
+    BEL_fascism_ADJ:0 "Belgijska"
+
+   #NEUTRALITY
+
+    BEL_neutrality:0 "Królestwo Belgii"
+    BEL_neutrality_DEF:0 "Królestwo Belgii"
+    BEL_neutrality_ADJ:0 "Belgijska"
+
+   #TAG
+
+    BEL:0 "Belgia"
+    BEL_DEF:0 "Belgijskie Państwo"
+    BEL_ADJ:0 "Belgijska"
+
+ ###BOSNIA
+
+   #COMMUNISM
+
+    BOS_communism:0 "Demokratyczna Republika Bośnia i Hercegowiny"
+    BOS_communism_DEF:0 "Demokratyczna Republika Bośnia i Hercegowiny"
+    BOS_communism_ADJ:0 "Bosnian"
+
+   #DEMOCRATIC
+
+    BOS_democratic:0 "Republika Bośnia i Hercegowiny"
+    BOS_democratic_DEF:0 "Republika Bośnia i Hercegowiny"
+    BOS_democratic_ADJ:0 "Bosnian"
+
+   #FASCISM
+
+    BOS_fascism:0 "Niepodległe Państwo Bośnia i Hercegowiny"
+    BOS_fascism_DEF:0 "Niepodległe Państwo Bośnia i Hercegowiny"
+    BOS_fascism_ADJ:0 "Bosnian"
+
+   #NEUTRALITY
+
+    BOS_neutrality:0 "Republika Bośnia i Hercegowiny"
+    BOS_neutrality_DEF:0 "Republika Bośnia i Hercegowiny"
+    BOS_neutrality_ADJ:0 "Bosnian"
+
+   #TAG
+
+    BOS:0 "Bośnia i Hercegowina"
+    BOS_DEF:0 "Państwo Bośnia i Hercegowiny"
+    BOS_ADJ:0 "Bosnian"
+
+ ###BRITAIN
+
+   #COMMUNISM
+
+    ENG_communism:0 "Zjednoczone Socjalistyczna Wspólnota"
+    ENG_communism_DEF:0 "Zjednoczone Socjalistyczna Wspólnota"
+    ENG_communism_ADJ:0 "Wspólnota"
+
+   #DEMOCRATIC
+
+    ENG_democratic:0 "Zjednoczone Królestwo"
+    ENG_democratic_DEF:0 "Zjednoczone Królestwo"
+    ENG_democratic_ADJ:0 "British"
+
+   #FASCISM
+
+    ENG_fascism:0 "British Empire"
+    ENG_fascism_DEF:0 "British Empire"
+    ENG_fascism_ADJ:0 "British"
+
+   #NEUTRALITY
+
+    ENG_neutrality:0 "Zjednoczone Królestwo"
+    ENG_neutrality_DEF:0 "Zjednoczone Królestwo"
+    ENG_neutrality_ADJ:0 "British"
+
+   #TAG
+
+    ENG:0 "Britain"
+    ENG_DEF:0 "British Państwo"
+    ENG_ADJ:0 "British"
+
+ ###BRITTANY
+
+   #COMMUNISM
+
+    BRI_communism:0 "Breton Socjalistyczna Republika"
+    BRI_communism_DEF:0 "Breton Socjalistyczna Republika"
+    BRI_communism_ADJ:0 "Breton"
+
+   #DEMOCRATIC
+
+    BRI_democratic:0 "Breton Republika"
+    BRI_democratic_DEF:0 "Breton Republika"
+    BRI_democratic_ADJ:0 "Breton"
+
+   #FASCISM
+
+    BRI_fascism:0 "Breton Nacjonalistyczna Państwo"
+    BRI_fascism_DEF:0 "Breton Nacjonalistyczna Państwo"
+    BRI_fascism_ADJ:0 "Breton"
+
+   #NEUTRALITY
+
+    BRI_neutrality:0 "Breton Republika"
+    BRI_neutrality_DEF:0 "Breton Republika"
+    BRI_neutrality_ADJ:0 "Breton"
+
+   #TAG
+
+    BRI:0 "Brittany"
+    BRI_DEF:0 "Breton Państwo"
+    BRI_ADJ:0 "Breton"
+
+ ###BULGARIA
+
+   #COMMUNISM
+
+    BUL_communism:0 "Ludowa Republika Bulgaria"
+    BUL_communism_DEF:0 "Ludowa Republika Bulgaria"
+    BUL_communism_ADJ:0 "Bulgarian"
+
+   #DEMOCRATIC
+
+    BUL_democratic:0 "Republika Bulgaria"
+    BUL_democratic_DEF:0 "Republika Bulgaria"
+    BUL_democratic_ADJ:0 "Bulgarian"
+
+   #FASCISM
+
+    BUL_fascism:0 "Bulgarian Nacjonalistyczna Państwo"
+    BUL_fascism_DEF:0 "Bulgarian Nacjonalistyczna Państwo"
+    BUL_fascism_ADJ:0 "Bulgarian"
+
+   #NEUTRALITY
+
+    BUL_neutrality:0 "Królestwo Bulgaria"
+    BUL_neutrality_DEF:0 "Królestwo Bulgaria"
+    BUL_neutrality_ADJ:0 "Bulgarian"
+
+   #TAG
+
+    BUL:0 "Bulgaria"
+    BUL_DEF:0 "Bulgarian Państwo"
+    BUL_ADJ:0 "Bulgarian"
+
+ ###Białoruś
+
+   #COMMUNISM
+
+    BLR_communism:0 "Białoruska Socjalistyczna Republika"
+    BLR_communism_DEF:0 "Białoruska Socjalistyczna Republika"
+    BLR_communism_ADJ:0 "Białoruska"
+
+   #DEMOCRATIC
+
+    BLR_democratic:0 "Białoruska Ludowa Republika"
+    BLR_democratic_DEF:0 "Białoruska Ludowa Republika"
+    BLR_democratic_ADJ:0 "Białoruska"
+
+   #FASCISM
+
+    BLR_fascism:0 "Białoruska Państwo"
+    BLR_fascism_DEF:0 "Białoruska Państwo"
+    BLR_fascism_ADJ:0 "Białoruska"
+
+   #NEUTRALITY
+
+    BLR_neutrality:0 "Białoruska Ludowa Republika"
+    BLR_neutrality_DEF:0 "Białoruska Ludowa Republika"
+    BLR_neutrality_ADJ:0 "Białoruska"
+
+   #TAG
+
+    BLR:0 "Białoruś"
+    BLR_DEF:0 "Białoruskie Państwo"
+    BLR_ADJ:0 "Białoruska"
+
+ ###CANADA
+
+   #COMMUNISM
+
+    CAN_communism:0 "Canadian Ludowa Republika"
+    CAN_communism_DEF:0 "Canadian Ludowa Republika"
+    CAN_communism_ADJ:0 "Canadian"
+
+   #DEMOCRATIC
+
+    CAN_democratic:0 "Canadian Confederation"
+    CAN_democratic_DEF:0 "Canadian Confederation"
+    CAN_democratic_ADJ:0 "Canadian"
+
+   #FASCISM
+
+    CAN_fascism:0 "Unitary Canadian Realm"
+    CAN_fascism_DEF:0 "Unitary Canadian Realm"
+    CAN_fascism_ADJ:0 "Canadian"
+
+   #NEUTRALITY
+
+    CAN_neutrality:0 "Canadian Confederation"
+    CAN_neutrality_DEF:0 "Canadian Confederation"
+    CAN_neutrality_ADJ:0 "Canadian"
+
+   #TAG
+
+    CAN:0 "Canada"
+    CAN_DEF:0 "Canadian Państwo"
+    CAN_ADJ:0 "Canadian"
+
+ ###CATALONIA
+
+   #COMMUNISM
+
+    CAT_communism:0 "Unia Catalonia"
+    CAT_communism_DEF:0 "Unia Catalonia"
+    CAT_communism_ADJ:0 "Catalan"
+
+   #DEMOCRATIC
+
+    CAT_democratic:0 "Catalan Republika"
+    CAT_democratic_DEF:0 "Catalan Republika"
+    CAT_democratic_ADJ:0 "Catalan"
+
+   #FASCISM
+
+    CAT_fascism:0 "Catalan Państwo"
+    CAT_fascism_DEF:0 "Catalan Państwo"
+    CAT_fascism_ADJ:0 "Catalan"
+
+   #NEUTRALITY
+
+    CAT_neutrality:0 "Catalan Republika"
+    CAT_neutrality_DEF:0 "Catalan Republika"
+    CAT_neutrality_ADJ:0 "Catalan"
+
+   #TAG
+
+    CAT:0 "Catalonia"
+    CAT_DEF:0 "Catalan Państwo"
+    CAT_ADJ:0 "Catalan"
+
+ ###CHECHNYA-INGUSHETIA
+
+   #COMMUNISM
+
+    CIN_communism:0 "Checheno-Ingush Ludowa Republika"
+    CIN_communism_DEF:0 "Checheno-Ingush Ludowa Republika"
+    CIN_communism_ADJ:0 "Checheno-Ingush"
+
+   #DEMOCRATIC
+
+    CIN_democratic:0 "Checheno-Ingush Republika"
+    CIN_democratic_DEF:0 "Checheno-Ingush Republika"
+    CIN_democratic_ADJ:0 "Checheno-Ingush"
+
+   #FASCISM
+
+    CIN_fascism:0 "Checheno-Ingush Emirate"
+    CIN_fascism_DEF:0 "Checheno-Ingush Emirate"
+    CIN_fascism_ADJ:0 "Checheno-Ingush"
+
+   #NEUTRALITY
+
+    CIN_neutrality:0 "Checheno-Ingush Emirate"
+    CIN_neutrality_DEF:0 "Checheno-Ingush Emirate"
+    CIN_neutrality_ADJ:0 "Checheno-Ingush"
+
+   #TAG
+
+    CIN:0 "Chechnya-Ingushetia"
+    CIN_DEF:0 "Checheno-Ingush Państwo"
+    CIN_ADJ:0 "Checheno-Ingush"
+
+ ###CHUVASHIA
+
+   #COMMUNISM
+
+    CHU_communism:0 "Chuvash Socjalistyczna Republika"
+    CHU_communism_DEF:0 "Chuvash Socjalistyczna Republika"
+    CHU_communism_ADJ:0 "Chuvash"
+
+   #DEMOCRATIC
+
+    CHU_democratic:0 "Chuvash Republika"
+    CHU_democratic_DEF:0 "Chuvash Republika"
+    CHU_democratic_ADJ:0 "Chuvash"
+
+   #FASCISM
+
+    CHU_fascism:0 "Chuvash Państwo"
+    CHU_fascism_DEF:0 "Chuvash Państwo"
+    CHU_fascism_ADJ:0 "Chuvash"
+
+   #NEUTRALITY
+
+    CHU_neutrality:0 "Chuvash Republika"
+    CHU_neutrality_DEF:0 "Chuvash Republika"
+    CHU_neutrality_ADJ:0 "Chuvash"
+
+   #TAG
+
+    CHU:0 "Chuvashia"
+    CHU_DEF:0 "Chuvash Państwo"
+    CHU_ADJ:0 "Chuvash"
+
+ ###CORSICA
+
+   #COMMUNISM
+
+    COR_communism:0 "Corsican Ludowa Republika"
+    COR_communism_DEF:0 "Corsican Ludowa Republika"
+    COR_communism_ADJ:0 "Corsican"
+
+   #DEMOCRATIC
+
+    COR_democratic:0 "Corsican Republika"
+    COR_democratic_DEF:0 "Corsican Republika"
+    COR_democratic_ADJ:0 "Corsican"
+
+   #FASCISM
+
+    COR_fascism:0 "Corsican Państwo"
+    COR_fascism_DEF:0 "Corsican Państwo"
+    COR_fascism_ADJ:0 "Corsican"
+
+   #NEUTRALITY
+
+    COR_neutrality:0 "Corsican Republika"
+    COR_neutrality_DEF:0 "Corsican Republika"
+    COR_neutrality_ADJ:0 "Corsican"
+
+   #TAG
+
+    COR:0 "Corsica"
+    COR_DEF:0 "Corsican Państwo"
+    COR_ADJ:0 "Corsican"
+
+ ###CRIMEA
+
+   #COMMUNISM
+
+    CRI_communism:0 "Crimean Ludowa Republika"
+    CRI_communism_DEF:0 "Crimean Ludowa Republika"
+    CRI_communism_ADJ:0 "Crimean"
+
+   #DEMOCRATIC
+
+    CRI_democratic:0 "Crimean Ludowa Republika"
+    CRI_democratic_DEF:0 "Crimean Ludowa Republika"
+    CRI_democratic_ADJ:0 "Crimean"
+
+   #FASCISM
+
+    CRI_fascism:0 "Crimean Państwo"
+    CRI_fascism_DEF:0 "Crimean Państwo"
+    CRI_fascism_ADJ:0 "Crimean"
+
+   #NEUTRALITY
+
+    CRI_neutrality:0 "Crimean Ludowa Republika"
+    CRI_neutrality_DEF:0 "Crimean Ludowa Republika"
+    CRI_neutrality_ADJ:0 "Crimean"
+
+   #TAG
+
+    CRI:0 "Crimea"
+    CRI_DEF:0 "Crimean Państwo"
+    CRI_ADJ:0 "Crimean"
+
+ ###CROATIA
+
+   #COMMUNISM
+
+    CRO_communism:0 "Ludowa Republika Croatia"
+    CRO_communism_DEF:0 "Ludowa Republika Croatia"
+    CRO_communism_ADJ:0 "Croatian"
+
+   #DEMOCRATIC
+
+    CRO_democratic:0 "Republika Croatia"
+    CRO_democratic_DEF:0 "Republika Croatia"
+    CRO_democratic_ADJ:0 "Croatian"
+
+   #FASCISM
+
+    CRO_fascism:0 "Niepodległe Państwo Croatia"
+    CRO_fascism_DEF:0 "Niepodległe Państwo Croatia"
+    CRO_fascism_ADJ:0 "Croatian"
+
+   #NEUTRALITY
+
+    CRO_neutrality:0 "Królestwo Croatia"
+    CRO_neutrality_DEF:0 "Królestwo Croatia"
+    CRO_neutrality_ADJ:0 "Croatian"
+
+   #TAG
+
+    CRO:0 "Croatia"
+    CRO_DEF:0 "Croatian Państwo"
+    CRO_ADJ:0 "Croatian"
+
+ ###CYPRUS
+
+   #COMMUNISM
+
+    CYP_communism:0 "Cypriot Demokratyczna Republika"
+    CYP_communism_DEF:0 "Cypriot Demokratyczna Republika"
+    CYP_communism_ADJ:0 "Cypriot"
+
+   #DEMOCRATIC
+
+    CYP_democratic:0 "Cypriot Republika"
+    CYP_democratic_DEF:0 "Cypriot Republika"
+    CYP_democratic_ADJ:0 "Cypriot"
+
+   #FASCISM
+
+    CYP_fascism:0 "Nacjonalistyczna Cypriot Państwo"
+    CYP_fascism_DEF:0 "Nacjonalistyczna Cypriot Państwo"
+    CYP_fascism_ADJ:0 "Cypriot"
+
+   #NEUTRALITY
+
+    CYP_neutrality:0 "Cypriot Państwo"
+    CYP_neutrality_DEF:0 "Cypriot Państwo"
+    CYP_neutrality_ADJ:0 "Cypriot"
+
+   #TAG
+
+    CYP:0 "Cyprus"
+    CYP_DEF:0 "Cypriot Państwo"
+    CYP_ADJ:0 "Cypriot"
+
+ ###Czechosłowacja
+
+   #COMMUNISM
+
+    CZE_communism:0 "Czechosłowacka Republika"
+    CZE_communism_DEF:0 "Czechosłowacka Republika"
+    CZE_communism_ADJ:0 "Czechosłowacka"
+
+   #DEMOCRATIC
+
+    CZE_democratic:0 "Czechosłowacka Republika"
+    CZE_democratic_DEF:0 "Czechosłowacka Republika"
+    CZE_democratic_ADJ:0 "Czechosłowacka"
+
+   #FASCISM
+
+    CZE_fascism:0 "Czechosłowackie Państwo"
+    CZE_fascism_DEF:0 "Czechosłowackie Państwo"
+    CZE_fascism_ADJ:0 "Czechosłowacka"
+
+   #NEUTRALITY
+
+    CZE_neutrality:0 "Czechosłowackie Państwo"
+    CZE_neutrality_DEF:0 "Czechosłowackie Państwo"
+    CZE_neutrality_ADJ:0 "Czechosłowacka"
+
+   #TAG
+
+    CZE:0 "Czechosłowacja"
+    CZE_DEF:0 "Czechosłowackie Państwo"
+    CZE_ADJ:0 "Czechosłowacka"
+
+ ###DAGESTAN
+
+   #COMMUNISM
+
+    DAG_communism:0 "Dagestan Mountainous Sowiecka Republika"
+    DAG_communism_DEF:0 "Dagestan Mountainous Sowiecka Republika"
+    DAG_communism_ADJ:0 "Dagestani"
+
+   #DEMOCRATIC
+
+    DAG_democratic:0 "Mountainous Republika Dagestan"
+    DAG_democratic_DEF:0 "Mountainous Republika Dagestan"
+    DAG_democratic_ADJ:0 "Dagestani"
+
+   #FASCISM
+
+    DAG_fascism:0 "Legionowe Państwo Dagestan"
+    DAG_fascism_DEF:0 "Legionowe Państwo Dagestan"
+    DAG_fascism_ADJ:0 "Dagestani"
+
+   #NEUTRALITY
+
+    DAG_neutrality:0 "Mountainous Republika Dagestan"
+    DAG_neutrality_DEF:0 "Mountainous Republika Dagestan"
+    DAG_neutrality_ADJ:0 "Dagestani"
+
+   #TAG
+
+    DAG:0 "Dagestan"
+    DAG_DEF:0 "Dagestani Państwo"
+    DAG_ADJ:0 "Dagestani"
+
+ ###DALMATIA
+
+   #COMMUNISM
+
+    DLM_communism:0 "Ludowa Republika Dalmatia"
+    DLM_communism_DEF:0 "Ludowa Republika Dalmatia"
+    DLM_communism_ADJ:0 "Dalmatian"
+
+   #DEMOCRATIC
+
+    DLM_democratic:0 "Dalmatian Republika"
+    DLM_democratic_DEF:0 "Dalmatian Republika"
+    DLM_democratic_ADJ:0 "Dalmatian"
+
+   #FASCISM
+
+    DLM_fascism:0 "Niepodległe Państwo Dalmatia"
+    DLM_fascism_DEF:0 "Niepodległe Państwo Dalmatia"
+    DLM_fascism_ADJ:0 "Dalmatian"
+
+   #NEUTRALITY
+
+    DLM_neutrality:0 "Państwo Dalmatia"
+    DLM_neutrality_DEF:0 "Państwo Dalmatia"
+    DLM_neutrality_ADJ:0 "Dalmatian"
+
+   #TAG
+
+    DLM:0 "Dalmatia"
+    DLM_DEF:0 "Dalmatian Państwo"
+    DLM_ADJ:0 "Dalmatian"
+
+ ###DANZIG
+
+   #COMMUNISM
+
+    DNZ_communism:0 "Radna Republika Danzig"
+    DNZ_communism_DEF:0 "Radna Republika Danzig"
+    DNZ_communism_ADJ:0 "Danziger"
+
+   #DEMOCRATIC
+
+    DNZ_democratic:0 "Wolne City Danzig"
+    DNZ_democratic_DEF:0 "Wolne City Danzig"
+    DNZ_democratic_ADJ:0 "Danziger"
+
+   #FASCISM
+
+    DNZ_fascism:0 "Wolne City Danzig"
+    DNZ_fascism_DEF:0 "Wolne City Danzig"
+    DNZ_fascism_ADJ:0 "Danziger"
+
+   #NEUTRALITY
+
+    DNZ_neutrality:0 "Wolne City Danzig"
+    DNZ_neutrality_DEF:0 "Wolne City Danzig"
+    DNZ_neutrality_ADJ:0 "Danziger"
+
+   #TAG
+
+    DNZ:0 "Danzig"
+    DNZ_DEF:0 "Danziger Państwo"
+    DNZ_ADJ:0 "Danziger"
+
+ ###DENMARK
+
+   #COMMUNISM
+
+    DEN_communism:0 "Danish Ludowa Republika"
+    DEN_communism_DEF:0 "Danish Ludowa Republika"
+    DEN_communism_ADJ:0 "Danish"
+
+   #DEMOCRATIC
+
+    DEN_democratic:0 "Królestwo Denmark"
+    DEN_democratic_DEF:0 "Królestwo Denmark"
+    DEN_democratic_ADJ:0 "Danish"
+
+   #FASCISM
+
+    DEN_fascism:0 "Królestwo Denmark"
+    DEN_fascism_DEF:0 "Królestwo Denmark"
+    DEN_fascism_ADJ:0 "Danish"
+
+   #NEUTRALITY
+
+    DEN_neutrality:0 "Królestwo Denmark"
+    DEN_neutrality_DEF:0 "Królestwo Denmark"
+    DEN_neutrality_ADJ:0 "Danish"
+
+   #TAG
+
+    DEN:0 "Denmark"
+    DEN_DEF:0 "Danish Państwo"
+    DEN_ADJ:0 "Danish"
+
+ ###DON
+
+   #COMMUNISM
+
+    DON_communism:0 "Don Sowiecka Republika"
+    DON_communism_DEF:0 "Don Sowiecka Republika"
+    DON_communism_ADJ:0 "Donian"
+
+   #DEMOCRATIC
+
+    DON_democratic:0 "Don Republika"
+    DON_democratic_DEF:0 "Don Republika"
+    DON_democratic_ADJ:0 "Donian"
+
+   #FASCISM
+
+    DON_fascism:0 "Almighty Don Don"
+    DON_fascism_DEF:0 "Almighty Don Host"
+    DON_fascism_ADJ:0 "Donian"
+
+   #NEUTRALITY
+
+    DON_neutrality:0 "Almighty Don Host"
+    DON_neutrality_DEF:0 "Almighty Don Host"
+    DON_neutrality_ADJ:0 "Donian"
+
+   #TAG
+
+    DON:0 "Don"
+    DON_DEF:0 "Don Państwo"
+    DON_ADJ:0 "Donian"
+
+ ###EGYPT
+
+   #COMMUNISM
+
+    EGY_communism:0 "Republika Egypt"
+    EGY_communism_DEF:0 "Republika Egypt"
+    EGY_communism_ADJ:0 "Egyptian"
+
+   #DEMOCRATIC
+
+    EGY_democratic:0 "Królestwo Egypt"
+    EGY_democratic_DEF:0 "Królestwo Egypt"
+    EGY_democratic_ADJ:0 "Egyptian"
+
+   #FASCISM
+
+    EGY_fascism:0 "Państwo Young Egypt"
+    EGY_fascism_DEF:0 "Państwo Young Egypt"
+    EGY_fascism_ADJ:0 "Egyptian"
+
+   #NEUTRALITY
+
+    EGY_neutrality:0 "Królestwo Egypt"
+    EGY_neutrality_DEF:0 "Królestwo Egypt"
+    EGY_neutrality_ADJ:0 "Egyptian"
+
+   #TAG
+
+    EGY:0 "Egypt"
+    EGY_DEF:0 "Egyptian Państwo"
+    EGY_ADJ:0 "Egyptian"
+
+ ###Estonii
+
+   #COMMUNISM
+
+    EST_communism:0 "Estońska Ludowa Republika"
+    EST_communism_DEF:0 "Estońska Ludowa Republika"
+    EST_communism_ADJ:0 "Estońska"
+
+   #DEMOCRATIC
+
+    EST_democratic:0 "Republika Estonii"
+    EST_democratic_DEF:0 "Republika Estonii"
+    EST_democratic_ADJ:0 "Estońska"
+
+   #FASCISM
+
+    EST_fascism:0 "Estońska Republika"
+    EST_fascism_DEF:0 "Estońska Republika"
+    EST_fascism_ADJ:0 "Estońska"
+
+   #NEUTRALITY
+
+    EST_neutrality:0 "Republika Estonii"
+    EST_neutrality_DEF:0 "Republika Estonii"
+    EST_neutrality_ADJ:0 "Estońska"
+
+   #TAG
+
+    EST:0 "Estonii"
+    EST_DEF:0 "Estońskie Państwo"
+    EST_ADJ:0 "Estońska"
+
+ ###Finlandii
+
+   #COMMUNISM
+
+    FIN_communism:0 "Finlandzka Socjalistyczna Robotnicza Republika"
+    FIN_communism_DEF:0 "Finlandzka Socjalistyczna Robotnicza Republika"
+    FIN_communism_ADJ:0 "Finlandzka"
+
+   #DEMOCRATIC
+
+    FIN_democratic:0 "Republika Finlandii"
+    FIN_democratic_DEF:0 "Republika Finlandii"
+    FIN_democratic_ADJ:0 "Finlandzka"
+
+   #FASCISM
+
+    FIN_fascism:0 "Republika Finlandii"
+    FIN_fascism_DEF:0 "Republika Finlandii"
+    FIN_fascism_ADJ:0 "Finlandzka"
+
+   #NEUTRALITY
+
+    FIN_neutrality:0 "Republika Finlandii"
+    FIN_neutrality_DEF:0 "Republika Finlandii"
+    FIN_neutrality_ADJ:0 "Finlandzka"
+
+   #TAG
+
+    FIN:0 "Finlandii"
+    FIN_DEF:0 "Finlandzkie Państwo"
+    FIN_ADJ:0 "Finlandzka"
+
+ ###FRANCE
+
+   #COMMUNISM
+
+    FRA_communism:0 "Francuska Socjalistyczna Republika"
+    FRA_communism_DEF:0 "Francuska Socjalistyczna Republika"
+    FRA_communism_ADJ:0 "Francuska"
+
+   #DEMOCRATIC
+
+    FRA_democratic:0 "Francuska Republika"
+    FRA_democratic_DEF:0 "Francuska Republika"
+    FRA_democratic_ADJ:0 "Francuska"
+
+   #FASCISM
+
+    FRA_fascism:0 "Francuska Państwo"
+    FRA_fascism_DEF:0 "Francuska Państwo"
+    FRA_fascism_ADJ:0 "Francuska"
+
+   #NEUTRALITY
+
+    FRA_neutrality:0 "Królestwo France"
+    FRA_neutrality_DEF:0 "Królestwo France"
+    FRA_neutrality_ADJ:0 "Francuska"
+
+   #TAG
+
+    FRA:0 "France"
+    FRA_DEF:0 "Francuska Państwo"
+    FRA_ADJ:0 "Francuska"
+
+ ###GALICIA
+
+   #COMMUNISM
+
+    GLC_communism:0 "Galician Socjalistyczna Państwo"
+    GLC_communism_DEF:0 "Galician Socjalistyczna Państwo"
+    GLC_communism_ADJ:0 "Galician"
+
+   #DEMOCRATIC
+
+    GLC_democratic:0 "Galician Państwo"
+    GLC_democratic_DEF:0 "Galician Państwo"
+    GLC_democratic_ADJ:0 "Galician"
+
+   #FASCISM
+
+    GLC_fascism:0 "Galician Państwo"
+    GLC_fascism_DEF:0 "Galician Państwo"
+    GLC_fascism_ADJ:0 "Galician"
+
+   #NEUTRALITY
+
+    GLC_neutrality:0 "Galician Państwo"
+    GLC_neutrality_DEF:0 "Galician Państwo"
+    GLC_neutrality_ADJ:0 "Galician"
+
+   #TAG
+
+    GLC:0 "Galicia"
+    GLC_DEF:0 "Galician Państwo"
+    GLC_ADJ:0 "Galician"
+
+ ###GEORGIA
+
+   #COMMUNISM
+
+    GEO_communism:0 "Georgian Socjalistyczna Republika"
+    GEO_communism_DEF:0 "Georgian Socjalistyczna Republika"
+    GEO_communism_ADJ:0 "Georgian"
+
+   #DEMOCRATIC
+
+    GEO_democratic:0 "Demokratyczna Republika Georgia"
+    GEO_democratic_DEF:0 "Demokratyczna Republika Georgia"
+    GEO_democratic_ADJ:0 "Georgian"
+
+   #FASCISM
+
+    GEO_fascism:0 "Legionowe Państwo Georgia"
+    GEO_fascism_DEF:0 "Legionowe Państwo Georgia"
+    GEO_fascism_ADJ:0 "Georgian"
+
+   #NEUTRALITY
+
+    GEO_neutrality:0 "Demokratyczna Republika Georgia"
+    GEO_neutrality_DEF:0 "Demokratyczna Republika Georgia"
+    GEO_neutrality_ADJ:0 "Georgian"
+
+   #TAG
+
+    GEO:0 "Georgia"
+    GEO_DEF:0 "Georgian Państwo"
+    GEO_ADJ:0 "Georgian"
+
+ ###Niemcy
+
+   #COMMUNISM
+
+    GER_communism:0 "Niemiecka Radna Republika"
+    GER_communism_DEF:0 "Niemiecka Radna Republika"
+    GER_communism_ADJ:0 "Niemiecka"
+
+   #DEMOCRATIC
+
+    GER_democratic:0 "Niemiecka Republika"
+    GER_democratic_DEF:0 "Niemiecka Republika"
+    GER_democratic_ADJ:0 "Niemiecka"
+
+   #FASCISM
+
+    GER_fascism:0 "Niemiecka Reich"
+    GER_fascism_DEF:0 "Niemiecka Reich"
+    GER_fascism_ADJ:0 "Niemiecka"
+
+   #NEUTRALITY
+
+    GER_neutrality:0 "Niemiecka Reich"
+    GER_neutrality_DEF:0 "Niemiecka Reich"
+    GER_neutrality_ADJ:0 "Niemiecka"
+
+   #TAG
+
+    GER:0 "Niemcy"
+    GER_DEF:0 "Niemiecka Państwo"
+    GER_ADJ:0 "Niemiecka"
+
+  ##EAST Niemcy
+
+    #COMMUNISM
+
+     DDR_communism:0 "Niemiecka Demokratyczna Republika"
+     DDR_communism_DEF:0 "Niemiecka Demokratyczna Republika"
+     DDR_communism_ADJ:0 "Niemiecka"
+
+    #DEMOCRATIC
+
+     DDR_democratic:0 "Republika Niemcy"
+     DDR_democratic_DEF:0 "Republika Niemcy"
+     DDR_democratic_ADJ:0 "Niemiecka"
+
+    #FASCISM
+
+     DDR_fascism:0 "Niemiecka Reich"
+     DDR_fascism_DEF:0 "Niemiecka Reich"
+     DDR_fascism_ADJ:0 "Niemiecka"
+
+    #NEUTRALITY
+
+     DDR_neutrality:0 "Niemiecka Reich"
+     DDR_neutrality_DEF:0 "Niemiecka Reich"
+     DDR_neutrality_ADJ:0 "Niemiecka"
+
+    #TAG
+
+     DDR:0 "East Niemcy"
+     DDR_DEF:0 "East Niemiecka Państwo"
+     DDR_ADJ:0 "East Niemiecka"
+
+  ##WEST Niemcy
+
+   #COMMUNISM
+
+    WGR_communism:0 "Niemiecka Socjalistyczna Republika"
+    WGR_communism_DEF:0 "Niemiecka Socjalistyczna Republika"
+    WGR_communism_ADJ:0 "Niemiecka"
+
+   #DEMOCRATIC
+
+    WGR_democratic:0 "Federalne Republika Niemcy"
+    WGR_democratic_DEF:0 "Federalne Republika Niemcy"
+    WGR_democratic_ADJ:0 "Niemiecka"
+
+   #FASCISM
+
+    WGR_fascism:0 "Niemiecka Państwo"
+    WGR_fascism_DEF:0 "Niemiecka Państwo"
+    WGR_fascism_ADJ:0 "Niemiecka"
+
+   #NEUTRALITY
+
+    WGR_neutrality:0 "Republika Niemcy"
+    WGR_neutrality_DEF:0 "Republika Niemcy"
+    WGR_neutrality_ADJ:0 "Niemiecka"
+
+   #TAG
+
+    WGR:0 "West Niemcy"
+    WGR_DEF:0 "West Niemiecka Państwo"
+    WGR_ADJ:0 "West Niemiecka"
+
+ ###GREECE
+
+   #COMMUNISM
+
+    GRE_communism:0 "Demokratyczna Republika Greece"
+    GRE_communism_DEF:0 "Demokratyczna Republika Greece"
+    GRE_communism_ADJ:0 "Greek"
+
+   #DEMOCRATIC
+
+    GRE_democratic:0 "Hellenic Republika"
+    GRE_democratic_DEF:0 "Hellenic Republika"
+    GRE_democratic_ADJ:0 "Hellene"
+
+   #FASCISM
+
+    GRE_fascism:0 "Hellenic Państwo"
+    GRE_fascism_DEF:0 "Hellenic Państwo"
+    GRE_fascism_ADJ:0 "Hellene"
+
+   #NEUTRALITY
+
+    GRE_neutrality:0 "Królestwo Greece"
+    GRE_neutrality_DEF:0 "Królestwo Greece"
+    GRE_neutrality_ADJ:0 "Greek"
+
+   #TAG
+
+    GRE:0 "Greece"
+    GRE_DEF:0 "Greek Państwo"
+    GRE_ADJ:0 "Greek"
+
+ ###HANOVER
+
+   #COMMUNISM
+
+    HAN_communism:0 "Hanoverian Radna Republika"
+    HAN_communism_DEF:0 "Hanoverian Radna Republika"
+    HAN_communism_ADJ:0 "Hanoverian"
+
+   #DEMOCRATIC
+
+    HAN_democratic:0 "Wolne Państwo Hanover"
+    HAN_democratic_DEF:0 "Wolne Państwo Hanover"
+    HAN_democratic_ADJ:0 "Hanoverian"
+
+   #FASCISM
+
+    HAN_fascism:0 "Państwo Hanover"
+    HAN_fascism_DEF:0 "Państwo Hanover"
+    HAN_fascism_ADJ:0 "Hanoverian"
+
+   #NEUTRALITY
+
+    HAN_neutrality:0 "Państwo Hanover"
+    HAN_neutrality_DEF:0 "Państwo Hanover"
+    HAN_neutrality_ADJ:0 "Hanoverian"
+
+   #TAG
+
+    HAN:0 "Hanover"
+    HAN_DEF:0 "Hanoverian Państwo"
+    HAN_ADJ:0 "Hanoverian"
+
+ ###HERZEGOVINA
+
+   #COMMUNISM
+
+    HRZ_communism:0 "Demokratyczna Republika Herzegovina"
+    HRZ_communism_DEF:0 "Demokratyczna Republika Herzegovina"
+    HRZ_communism_ADJ:0 "Herzegovinian"
+
+   #DEMOCRATIC
+
+    HRZ_democratic:0 "Republika Herzegovina"
+    HRZ_democratic_DEF:0 "Republika Herzegovina"
+    HRZ_democratic_ADJ:0 "Herzegovinian"
+
+   #FASCISM
+
+    HRZ_fascism:0 "Państwo Herzegovina"
+    HRZ_fascism_DEF:0 "Państwo Herzegovina"
+    HRZ_fascism_ADJ:0 "Herzegovinian"
+
+   #NEUTRALITY
+
+    HRZ_neutrality:0 "Republika Herzegovina"
+    HRZ_neutrality_DEF:0 "Republika Herzegovina"
+    HRZ_neutrality_ADJ:0 "Herzegovinian"
+
+   #TAG
+
+    HRZ:0 "Herzegovina"
+    HRZ_DEF:0 "Herzegovinian Państwo"
+    HRZ_ADJ:0 "Herzegovinian"
+
+ ###Węgry
+
+   #COMMUNISM
+
+    HUN_communism:0 "Węgierska Ludowa Republika"
+    HUN_communism_DEF:0 "Węgierska Ludowa Republika"
+    HUN_communism_ADJ:0 "Węgierska"
+
+   #DEMOCRATIC
+
+    HUN_democratic:0 "Węgierska Republika"
+    HUN_democratic_DEF:0 "Węgierska Republika"
+    HUN_democratic_ADJ:0 "Węgierska"
+
+   #FASCISM
+
+    HUN_fascism:0 "Nacjonalistyczne Węgierskie Państwo"
+    HUN_fascism_DEF:0 "Nacjonalistyczne Węgierskie Państwo"
+    HUN_fascism_ADJ:0 "Węgierska"
+
+   #NEUTRALITY
+
+    HUN_neutrality:0 "Królestwo Węgier"
+    HUN_neutrality_DEF:0 "Królestwo Węgier"
+    HUN_neutrality_ADJ:0 "Węgierska"
+
+   #TAG
+
+    HUN:0 "Węgry"
+    HUN_DEF:0 "Węgierskie Państwo"
+    HUN_ADJ:0 "Węgierska"
+
+ ###Islandii
+
+   #COMMUNISM
+
+    ICE_communism:0 "Robotnicza Republika Islandii"
+    ICE_communism_DEF:0 "Robotnicza Republika Islandii"
+    ICE_communism_ADJ:0 "Islandzka"
+
+   #DEMOCRATIC
+
+    ICE_democratic:0 "Królestwo Islandii"
+    ICE_democratic_DEF:0 "Królestwo Islandii"
+    ICE_democratic_ADJ:0 "Islandzka"
+
+   #FASCISM
+
+    ICE_fascism:0 "Państwo Islandii"
+    ICE_fascism_DEF:0 "Państwo Islandii"
+    ICE_fascism_ADJ:0 "Islandzka"
+
+   #NEUTRALITY
+
+    ICE_neutrality:0 "Królestwo Islandii"
+    ICE_neutrality_DEF:0 "Królestwo Islandii"
+    ICE_neutrality_ADJ:0 "Islandzka"
+
+   #TAG
+
+    ICE:0 "Islandii"
+    ICE_DEF:0 "Islandzka Państwo"
+    ICE_ADJ:0 "Islandzka"
+
+ ###IRAN
+
+   #COMMUNISM
+
+    PER_communism:0 "Iranian Ludowa Socjalistyczna Republika"
+    PER_communism_DEF:0 "Iranian Ludowa Socjalistyczna Republika"
+    PER_communism_ADJ:0 "Iranian"
+
+   #DEMOCRATIC
+
+    PER_democratic:0 "Republika Iran"
+    PER_democratic_DEF:0 "Republika Iran"
+    PER_democratic_ADJ:0 "Iranian"
+
+   #FASCISM
+
+    PER_fascism:0 "Iranian Państwo"
+    PER_fascism_DEF:0 "Iranian Państwo"
+    PER_fascism_ADJ:0 "Iranian"
+
+   #NEUTRALITY
+
+    PER_neutrality:0 "Imperial Państwo Iran"
+    PER_neutrality_DEF:0 "Imperial Państwo Iran"
+    PER_neutrality_ADJ:0 "Iranian"
+
+   #TAG
+
+    PER:0 "Iran"
+    PER_DEF:0 "Iranian Państwo"
+    PER_ADJ:0 "Iranian"
+
+ ###IRAQ
+
+   #COMMUNISM
+
+    IRQ_communism:0 "Iraqi Ludowa Republika"
+    IRQ_communism_DEF:0 "Iraqi Ludowa Republika"
+    IRQ_communism_ADJ:0 "Iraqi"
+
+   #DEMOCRATIC
+
+    IRQ_democratic:0 "Iraqi Republika"
+    IRQ_democratic_DEF:0 "Iraqi Republika"
+    IRQ_democratic_ADJ:0 "Iraqi"
+
+   #FASCISM
+
+    IRQ_fascism:0 "Iraqi Państwo"
+    IRQ_fascism_DEF:0 "Iraqi Państwo"
+    IRQ_fascism_ADJ:0 "Iraqi"
+
+   #NEUTRALITY
+
+    IRQ_neutrality:0 "Hashemite Królestwo Iraq"
+    IRQ_neutrality_DEF:0 "Hashemite Królestwo Iraq"
+    IRQ_neutrality_ADJ:0 "Iraqi"
+
+   #TAG
+
+    IRQ:0 "Iraq"
+    IRQ_DEF:0 "Iraqi Państwo"
+    IRQ_ADJ:0 "Iraqi"
+
+ ###IRELAND
+
+   #COMMUNISM
+
+    IRE_communism:0 "Republika Ireland"
+    IRE_communism_DEF:0 "Republika Ireland"
+    IRE_communism_ADJ:0 "Irish"
+
+   #DEMOCRATIC
+
+    IRE_democratic:0 "Republika Ireland"
+    IRE_democratic_DEF:0 "Republika Ireland"
+    IRE_democratic_ADJ:0 "Irish"
+
+   #FASCISM
+
+    IRE_fascism:0 "Irish Państwo"
+    IRE_fascism_DEF:0 "Irish Państwo"
+    IRE_fascism_ADJ:0 "Irish"
+
+   #NEUTRALITY
+
+    IRE_neutrality:0 "Republika Ireland"
+    IRE_neutrality_DEF:0 "Republika Ireland"
+    IRE_neutrality_ADJ:0 "Irish"
+
+   #TAG
+
+    IRE:0 "Ireland"
+    IRE_DEF:0 "Irish Państwo"
+    IRE_ADJ:0 "Irish"
+
+ ###ISRAEL
+
+   #COMMUNISM
+
+    ISR_communism:0 "Socjalistyczna Państwo Israel"
+    ISR_communism_DEF:0 "Socjalistyczna Państwo Israel"
+    ISR_communism_ADJ:0 "Israeli"
+
+   #DEMOCRATIC
+
+    ISR_democratic:0 "Państwo Israel"
+    ISR_democratic_DEF:0 "Państwo Israel"
+    ISR_democratic_ADJ:0 "Israeli"
+
+   #FASCISM
+
+    ISR_fascism:0 "Państwo Israel"
+    ISR_fascism_DEF:0 "Państwo Israel"
+    ISR_fascism_ADJ:0 "Israeli"
+
+   #NEUTRALITY
+
+    ISR_neutrality:0 "Państwo Israel"
+    ISR_neutrality_DEF:0 "Państwo Israel"
+    ISR_neutrality_ADJ:0 "Israeli"
+
+   #TAG
+
+    ISR:0 "Israel"
+    ISR_DEF:0 "Israeli Państwo"
+    ISR_ADJ:0 "Israeli"
+
+ ###ITALY
+
+   #COMMUNISM
+
+    ITA_communism:0 "Italian Socjalistyczna Union"
+    ITA_communism_DEF:0 "Italian Socjalistyczna Union"
+    ITA_communism_ADJ:0 "Italian"
+
+   #DEMOCRATIC
+
+    ITA_democratic:0 "Królestwo Italy"
+    ITA_democratic_DEF:0 "Królestwo Italy"
+    ITA_democratic_ADJ:0 "Italian"
+
+   #FASCISM
+
+    ITA_fascism:0 "Królestwo Italy"
+    ITA_fascism_DEF:0 "Królestwo Italy"
+    ITA_fascism_ADJ:0 "Italian"
+
+   #NEUTRALITY
+
+    ITA_neutrality:0 "Królestwo Italy"
+    ITA_neutrality_DEF:0 "Królestwo Italy"
+    ITA_neutrality_ADJ:0 "Italian"
+
+   #TAG
+
+    ITA:0 "Italy"
+    ITA_DEF:0 "Italian Państwo"
+    ITA_ADJ:0 "Italian"
+
+  ##NORTH ITALY
+
+   #COMMUNISM
+
+    RSI_communism:0 "Italian Demokratyczna Republika"
+    RSI_communism_DEF:0 "Italian Demokratyczna Republika"
+    RSI_communism_ADJ:0 "Italian"
+
+   #DEMOCRATIC
+
+    RSI_democratic:0 "Italian Republika"
+    RSI_democratic_DEF:0 "Italian Republika"
+    RSI_democratic_ADJ:0 "Italian"
+
+   #FASCISM
+
+    RSI_fascism:0 "Italian Social Republika"
+    RSI_fascism_DEF:0 "Italian Social Republika"
+    RSI_fascism_ADJ:0 "Italian"
+
+   #NEUTRALITY
+
+    RSI_neutrality:0 "Królestwo Italy"
+    RSI_neutrality_DEF:0 "Królestwo Italy"
+    RSI_neutrality_ADJ:0 "Italian"
+
+   #TAG
+
+    RSI:0 "North Italy"
+    RSI_DEF:0 "North Italian Państwo"
+    RSI_ADJ:0 "North Italian"
+
+  ##SOUTH ITALY
+
+   #COMMUNISM
+
+    RDS_communism:0 "Italian Socjalistyczna Republika"
+    RDS_communism_DEF:0 "Italian Socjalistyczna Republika"
+    RDS_communism_ADJ:0 "Italian"
+
+   #DEMOCRATIC
+
+    RDS_democratic:0 "Republika Italy"
+    RDS_democratic_DEF:0 "Republika Italy"
+    RDS_democratic_ADJ:0 "Italian"
+
+   #FASCISM
+
+    RDS_fascism:0 "Italian Nacjonalistyczna Państwo"
+    RDS_fascism_DEF:0 "Italian Nacjonalistyczna Państwo"
+    RDS_fascism_ADJ:0 "Italian"
+
+   #NEUTRALITY
+
+    RDS_neutrality:0 "Królestwo Italy"
+    RDS_neutrality_DEF:0 "Królestwo Italy"
+    RDS_neutrality_ADJ:0 "Italian"
+
+   #TAG
+
+    RDS:0 "South Italy"
+    RDS_DEF:0 "South Italian Państwo"
+    RDS_ADJ:0 "South Italian"
+
+ ###JORDAN
+
+   #COMMUNISM
+
+    JOR_communism:0 "Socjalistyczna Republika Jordan"
+    JOR_communism_DEF:0 "Socjalistyczna Republika Jordan"
+    JOR_communism_ADJ:0 "Jordanian"
+
+   #DEMOCRATIC
+
+    JOR_democratic:0 "Amirate Trans-Jordan"
+    JOR_democratic_DEF:0 "Amirate Trans-Jordan"
+    JOR_democratic_ADJ:0 "Jordanian"
+
+   #FASCISM
+
+    JOR_fascism:0 "Amirate Trans-Jordan"
+    JOR_fascism_DEF:0 "Amirate Trans-Jordan"
+    JOR_fascism_ADJ:0 "Jordanian"
+
+   #NEUTRALITY
+
+    JOR_neutrality:0 "Amirate Trans-Jordan"
+    JOR_neutrality_DEF:0 "Amirate Trans-Jordan"
+    JOR_neutrality_ADJ:0 "Jordanian"
+
+   #TAG
+
+    JOR:0 "Jordan"
+    JOR_DEF:0 "Jordanian Państwo"
+    JOR_ADJ:0 "Jordanian"
+
+ ###KABARDINO-BALKARIA
+
+   #COMMUNISM
+
+    KBK_communism:0 "Kabardino-Balkarian Socjalistyczna Republika"
+    KBK_communism_DEF:0 "Kabardino-Balkarian Socjalistyczna Republika"
+    KBK_communism_ADJ:0 "Kabardino-Balkarian"
+
+   #DEMOCRATIC
+
+    KBK_democratic:0 "Kabardino-Balkarian Republika"
+    KBK_democratic_DEF:0 "Kabardino-Balkarian Republika"
+    KBK_democratic_ADJ:0 "Kabardino-Balkarian"
+
+   #FASCISM
+
+    KBK_fascism:0 "Kabardino-Balkarian Państwo"
+    KBK_fascism_DEF:0 "Kabardino-Balkarian Państwo"
+    KBK_fascism_ADJ:0 "Kabardino-Balkarian"
+
+   #NEUTRALITY
+
+    KBK_neutrality:0 "Kabardino-Balkarian Mountainous Republika"
+    KBK_neutrality_DEF:0 "Kabardino-Balkarian Mountainous Republika"
+    KBK_neutrality_ADJ:0 "Kabardino-Balkarian"
+
+   #TAG
+
+    KBK:0 "Kabardino-Balkaria"
+    KBK_DEF:0 "Kabardino-Balkarian Państwo"
+    KBK_ADJ:0 "Kabardino-Balkarian"
+
+ ###KALMYKIA
+
+   #COMMUNISM
+
+    KAL_communism:0 "Socjalistyczna Państwo Kalmykia"
+    KAL_communism_DEF:0 "Socjalistyczna Państwo Kalmykia"
+    KAL_communism_ADJ:0 "Kalmyk"
+
+   #DEMOCRATIC
+
+    KAL_democratic:0 "Republika Kalmykia"
+    KAL_democratic_DEF:0 "Republika Kalmykia"
+    KAL_democratic_ADJ:0 "Kalmyk"
+
+   #FASCISM
+
+    KAL_fascism:0 "Państwo Kalmykia"
+    KAL_fascism_DEF:0 "Państwo Kalmykia"
+    KAL_fascism_ADJ:0 "Kalmyk"
+
+   #NEUTRALITY
+
+    KAL_neutrality:0 "Państwo Kalmykia"
+    KAL_neutrality_DEF:0 "Państwo Kalmykia"
+    KAL_neutrality_ADJ:0 "Kalmyk"
+
+   #TAG
+
+    KAL:0 "Kalmykia"
+    KAL_DEF:0 "Kalmyk Państwo"
+    KAL_ADJ:0 "Kalmyk"
+
+ ###KARAKALPAKSTAN
+
+   #COMMUNISM
+
+    KKP_communism:0 "Karakalpak Socjalistyczna Republika"
+    KKP_communism_DEF:0 "Karakalpak Socjalistyczna Republika"
+    KKP_communism_ADJ:0 "Karakalpak"
+
+   #DEMOCRATIC
+
+    KKP_democratic:0 "Republika Karakalpakstan"
+    KKP_democratic_DEF:0 "Republika Karakalpakstan"
+    KKP_democratic_ADJ:0 "Karakalpak"
+
+   #FASCISM
+
+    KKP_fascism:0 "Karakalpak Nacjonalistyczna Państwo"
+    KKP_fascism_DEF:0 "Karakalpak Nacjonalistyczna Państwo"
+    KKP_fascism_ADJ:0 "Karakalpak"
+
+   #NEUTRALITY
+
+    KKP_neutrality:0 "Republika Karakalpakstan"
+    KKP_neutrality_DEF:0 "Republika Karakalpakstan"
+    KKP_neutrality_ADJ:0 "Karakalpak"
+
+   #TAG
+
+    KKP:0 "Karakalpakstan"
+    KKP_DEF:0 "Karakalpak Państwo"
+    KKP_ADJ:0 "Karakalpak"
+
+ ###KARELIA
+
+   #COMMUNISM
+
+    KAR_communism:0 "Karelian Demokratyczna Republika"
+    KAR_communism_DEF:0 "Karelian Demokratyczna Republika"
+    KAR_communism_ADJ:0 "Karelian"
+
+   #DEMOCRATIC
+
+    KAR_democratic:0 "Republika Karelia"
+    KAR_democratic_DEF:0 "Republika Karelia"
+    KAR_democratic_ADJ:0 "Karelian"
+
+   #FASCISM
+
+    KAR_fascism:0 "Karelian Państwo"
+    KAR_fascism_DEF:0 "Karelian Państwo"
+    KAR_fascism_ADJ:0 "Karelian"
+
+   #NEUTRALITY
+
+    KAR_neutrality:0 "Republika Karelia"
+    KAR_neutrality_DEF:0 "Republika Karelia"
+    KAR_neutrality_ADJ:0 "Karelian"
+
+   #TAG
+
+    KAR:0 "Karelia"
+    KAR_DEF:0 "Karelian Państwo"
+    KAR_ADJ:0 "Karelian"
+
+ ###KASHUBIA
+
+   #COMMUNISM
+
+    KSH_communism:0 "Kashubian Ludowa Republika"
+    KSH_communism_DEF:0 "Kashubian Ludowa Republika"
+    KSH_communism_ADJ:0 "Kashubian"
+
+   #DEMOCRATIC
+
+    KSH_democratic:0 "Republika Kashubia"
+    KSH_democratic_DEF:0 "Republika Kashubia"
+    KSH_democratic_ADJ:0 "Kashubian"
+
+   #FASCISM
+
+    KSH_fascism:0 "Kashubian Państwo"
+    KSH_fascism_DEF:0 "Kashubian Państwo"
+    KSH_fascism_ADJ:0 "Kashubian"
+
+   #NEUTRALITY
+
+    KSH_neutrality:0 "Republika Kashubia"
+    KSH_neutrality_DEF:0 "Republika Kashubia"
+    KSH_neutrality_ADJ:0 "Kashubian"
+
+   #TAG
+
+    KSH:0 "Kashubia"
+    KSH_DEF:0 "Kashubian Państwo"
+    KSH_ADJ:0 "Kashubian"
+
+ ###KAZAKHSTAN
+
+   #COMMUNISM
+
+    KAZ_communism:0 "Kazakh Socjalistyczna Republika"
+    KAZ_communism_DEF:0 "Kazakh Socjalistyczna Republika"
+    KAZ_communism_ADJ:0 "Kazakh"
+
+   #DEMOCRATIC
+
+    KAZ_democratic:0 "Alash Republika"
+    KAZ_democratic_DEF:0 "Alash Republika"
+    KAZ_democratic_ADJ:0 "Alash"
+
+   #FASCISM
+
+    KAZ_fascism:0 "Nacjonalistyczna Państwo Turkestan"
+    KAZ_fascism_DEF:0 "Nacjonalistyczna Państwo Turkestan"
+    KAZ_fascism_ADJ:0 "Turkestani"
+
+   #NEUTRALITY
+
+    KAZ_neutrality:0 "Alash Republika"
+    KAZ_neutrality_DEF:0 "Alash Republika"
+    KAZ_neutrality_ADJ:0 "Alash"
+
+   #TAG
+
+    KAZ:0 "Kazakhstan"
+    KAZ_DEF:0 "Kazakh Państwo"
+    KAZ_ADJ:0 "Kazakh"
+
+ ###KHIVA
+
+   #COMMUNISM
+
+    KHI_communism:0 "Khorezm Ludowa Republika"
+    KHI_communism_DEF:0 "Khorezm Ludowa Republika"
+    KHI_communism_ADJ:0 "Khorezm"
+
+   #DEMOCRATIC
+
+    KHI_democratic:0 "Khorezm Nacjonalistyczna Republika"
+    KHI_democratic_DEF:0 "Khorezm Nacjonalistyczna Republika"
+    KHI_democratic_ADJ:0 "Khorezm"
+
+   #FASCISM
+
+    KHI_fascism:0 "Khorezm Nacjonalistyczna Republika"
+    KHI_fascism_DEF:0 "Khorezm Nacjonalistyczna Republika"
+    KHI_fascism_ADJ:0 "Khorezm"
+
+   #NEUTRALITY
+
+    KHI_neutrality:0 "Khanate Khiva"
+    KHI_neutrality_DEF:0 "Khanate Khiva"
+    KHI_neutrality_ADJ:0 "Khivan"
+
+   #TAG
+
+    KHI:0 "Khiva"
+    KHI_DEF:0 "Khivan Państwo"
+    KHI_ADJ:0 "Khivan"
+
+ ###KOMI
+
+   #COMMUNISM
+
+    KOM_communism:0 "Komi Socjalistyczna Republika"
+    KOM_communism_DEF:0 "Komi Socjalistyczna Republika"
+    KOM_communism_ADJ:0 "Komi"
+
+   #DEMOCRATIC
+
+    KOM_democratic:0 "Komi Republika"
+    KOM_democratic_DEF:0 "Komi Republika"
+    KOM_democratic_ADJ:0 "Komi"
+
+   #FASCISM
+
+    KOM_fascism:0 "Permian Państwo"
+    KOM_fascism_DEF:0 "Permian Państwo"
+    KOM_fascism_ADJ:0 "Permian"
+
+   #NEUTRALITY
+
+    KOM_neutrality:0 "Komi Republika"
+    KOM_neutrality_DEF:0 "Komi Republika"
+    KOM_neutrality_ADJ:0 "Komi"
+
+   #TAG
+
+    KOM:0 "Komi"
+    KOM_DEF:0 "Komi Państwo"
+    KOM_ADJ:0 "Komi"
+
+ ###KOSOVO
+
+   #COMMUNISM
+
+    KOS_communism:0 "Demokratyczna Republika Kosovo"
+    KOS_communism_DEF:0 "Demokratyczna Republika Kosovo"
+    KOS_communism_ADJ:0 "Kosovar"
+
+   #DEMOCRATIC
+
+    KOS_democratic:0 "Republika Kosovo"
+    KOS_democratic_DEF:0 "Republika Kosovo"
+    KOS_democratic_ADJ:0 "Kosovar"
+
+   #FASCISM
+
+    KOS_fascism:0 "Nacjonalistyczna Kosovar Państwo"
+    KOS_fascism_DEF:0 "Nacjonalistyczna Kosovar Państwo"
+    KOS_fascism_ADJ:0 "Kosovar"
+
+   #NEUTRALITY
+
+    KOS_neutrality:0 "Republika Kosovo"
+    KOS_neutrality_DEF:0 "Republika Kosovo"
+    KOS_neutrality_ADJ:0 "Kosovar"
+
+   #TAG
+
+    KOS:0 "Kosovo"
+    KOS_DEF:0 "Kosovar Państwo"
+    KOS_ADJ:0 "Kosovar"
+
+ ###KUBAN
+
+   #COMMUNISM
+
+    KUB_communism:0 "Kuban Sowiecka Republika"
+    KUB_communism_DEF:0 "Kuban Sowiecka Republika"
+    KUB_communism_ADJ:0 "Kubanian"
+
+   #DEMOCRATIC
+
+    KUB_democratic:0 "Kuban Ludowa Republika"
+    KUB_democratic_DEF:0 "Kuban Ludowa Republika"
+    KUB_democratic_ADJ:0 "Kubanian"
+
+   #FASCISM
+
+    KUB_fascism:0 "Almighty Kuban Host"
+    KUB_fascism_DEF:0 "Almighty Kuban Host"
+    KUB_fascism_ADJ:0 "Kubanian"
+
+   #NEUTRALITY
+
+    KUB_neutrality:0 "Kuban Ludowa Republika"
+    KUB_neutrality_DEF:0 "Kuban Ludowa Republika"
+    KUB_neutrality_ADJ:0 "Kubanian"
+
+   #TAG
+
+    KUB:0 "Kuban"
+    KUB_DEF:0 "Kubanian Państwo"
+    KUB_ADJ:0 "Kubanian"
+
+ ###KURDISTAN
+
+   #COMMUNISM
+
+    KUR_communism:0 "Ludowa Republika Kurdistan"
+    KUR_communism_DEF:0 "Ludowa Republika Kurdistan"
+    KUR_communism_ADJ:0 "Kurdistani"
+
+   #DEMOCRATIC
+
+    KUR_democratic:0 "Republika Kurdistan"
+    KUR_democratic_DEF:0 "Republika Kurdistan"
+    KUR_democratic_ADJ:0 "Kurdistani"
+
+   #FASCISM
+
+    KUR_fascism:0 "Kurdish Państwo"
+    KUR_fascism_DEF:0 "Kurdish Państwo"
+    KUR_fascism_ADJ:0 "Kurdistani"
+
+   #NEUTRALITY
+
+    KUR_neutrality:0 "Królestwo Kurdistan"
+    KUR_neutrality_DEF:0 "Królestwo Kurdistan"
+    KUR_neutrality_ADJ:0 "Kurdistani"
+
+   #TAG
+
+    KUR:0 "Kurdistan"
+    KUR_DEF:0 "Kurdistani Państwo"
+    KUR_ADJ:0 "Kurdistani"
+
+ ###KUWAIT
+
+   #COMMUNISM
+
+    KUW_communism:0 "Ludowa Republika Kuwait"
+    KUW_communism_DEF:0 "Ludowa Republika Kuwait"
+    KUW_communism_ADJ:0 "Kuwaiti"
+
+   #DEMOCRATIC
+
+    KUW_democratic:0 "Republika Kuwait"
+    KUW_democratic_DEF:0 "Republika Kuwait"
+    KUW_democratic_ADJ:0 "Kuwaiti"
+
+   #FASCISM
+
+    KUW_fascism:0 "Republika Kuwait"
+    KUW_fascism_DEF:0 "Republika Kuwait"
+    KUW_fascism_ADJ:0 "Kuwaiti"
+
+   #NEUTRALITY
+
+    KUW_neutrality:0 "Sheikhdom Kuwait"
+    KUW_neutrality_DEF:0 "Sheikhdom Kuwait"
+    KUW_neutrality_ADJ:0 "Kuwaiti"
+
+   #TAG
+
+    KUW:0 "Kuwait"
+    KUW_DEF:0 "Kuwaiti Państwo"
+    KUW_ADJ:0 "Kuwaiti"
+
+ ###Łotwy
+
+   #COMMUNISM
+
+    LAT_communism:0 "Łotewska Socjalistyczna Republika"
+    LAT_communism_DEF:0 "Łotewska Socjalistyczna Republika"
+    LAT_communism_ADJ:0 "Łotewska"
+
+   #DEMOCRATIC
+
+    LAT_democratic:0 "Republika Łotwy"
+    LAT_democratic_DEF:0 "Republika Łotwy"
+    LAT_democratic_ADJ:0 "Łotewska"
+
+   #FASCISM
+
+    LAT_fascism:0 "Łotewska Państwo"
+    LAT_fascism_DEF:0 "Łotewska Państwo"
+    LAT_fascism_ADJ:0 "Łotewska"
+
+   #NEUTRALITY
+
+    LAT_neutrality:0 "Republika Łotwy"
+    LAT_neutrality_DEF:0 "Republika Łotwy"
+    LAT_neutrality_ADJ:0 "Łotewska"
+
+   #TAG
+
+    LAT:0 "Łotwy"
+    LAT_DEF:0 "Łotewska Państwo"
+    LAT_ADJ:0 "Łotewska"
+
+ ###LEBANON
+
+   #COMMUNISM
+
+    LEB_communism:0 "Lebanese Socjalistyczna Republika"
+    LEB_communism_DEF:0 "Lebanese Socjalistyczna Republika"
+    LEB_communism_ADJ:0 "Lebanese"
+
+   #DEMOCRATIC
+
+    LEB_democratic:0 "Lebanese Republika"
+    LEB_democratic_DEF:0 "Lebanese Republika"
+    LEB_democratic_ADJ:0 "Lebanese"
+
+   #FASCISM
+
+    LEB_fascism:0 "Lebanese Państwo"
+    LEB_fascism_DEF:0 "Lebanese Państwo"
+    LEB_fascism_ADJ:0 "Lebanese"
+
+   #NEUTRALITY
+
+    LEB_neutrality:0 "Lebanese Republika"
+    LEB_neutrality_DEF:0 "Lebanese Republika"
+    LEB_neutrality_ADJ:0 "Lebanese"
+
+   #TAG
+
+    LEB:0 "Lebanon"
+    LEB_DEF:0 "Lebanese Państwo"
+    LEB_ADJ:0 "Lebanese"
+
+ ###LIBYA
+
+   #COMMUNISM
+
+    LBA_communism:0 "Libyan Socjalistyczna Republika"
+    LBA_communism_DEF:0 "Libyan Socjalistyczna Republika"
+    LBA_communism_ADJ:0 "Libyan"
+
+   #DEMOCRATIC
+
+    LBA_democratic:0 "Libyan Republika"
+    LBA_democratic_DEF:0 "Libyan Republika"
+    LBA_democratic_ADJ:0 "Libyan"
+
+   #FASCISM
+
+    LBA_fascism:0 "Libyan Państwo"
+    LBA_fascism_DEF:0 "Libyan Państwo"
+    LBA_fascism_ADJ:0 "Libyan"
+
+   #NEUTRALITY
+
+    LBA_neutrality:0 "Zjednoczone Królestwo Libya"
+    LBA_neutrality_DEF:0 "Zjednoczone Królestwo Libya"
+    LBA_neutrality_ADJ:0 "Libyan"
+
+   #TAG
+
+    LBA:0 "Libya"
+    LBA_DEF:0 "Libyan Państwo"
+    LBA_ADJ:0 "Libyan"
+
+ ###Litwy
+
+   #COMMUNISM
+
+    LIT_communism:0 "Litewska Ludowa Republika"
+    LIT_communism_DEF:0 "Litewska Ludowa Republika"
+    LIT_communism_ADJ:0 "Litewska"
+
+   #DEMOCRATIC
+
+    LIT_democratic:0 "Republika Litwy"
+    LIT_democratic_DEF:0 "Republika Litwy"
+    LIT_democratic_ADJ:0 "Litewska"
+
+   #FASCISM
+
+    LIT_fascism:0 "Litewskie Państwo"
+    LIT_fascism_DEF:0 "Litewskie Państwo"
+    LIT_fascism_ADJ:0 "Litewska"
+
+   #NEUTRALITY
+
+    LIT_neutrality:0 "Republika Litwy"
+    LIT_neutrality_DEF:0 "Republika Litwy"
+    LIT_neutrality_ADJ:0 "Litewska"
+
+   #TAG
+
+    LIT:0 "Litwa"
+    LIT_DEF:0 "Litewskie Państwo"
+    LIT_ADJ:0 "Litewska"
+
+ ###LUXEMBOURG
+
+   #COMMUNISM
+
+    LUX_communism:0 "Ludowa Republika Luxembourg"
+    LUX_communism_DEF:0 "Ludowa Republika Luxembourg"
+    LUX_communism_ADJ:0 "Luxembourger"
+
+   #DEMOCRATIC
+
+    LUX_democratic:0 "Grand Duchy Luxembourg"
+    LUX_democratic_DEF:0 "Grand Duchy Luxembourg"
+    LUX_democratic_ADJ:0 "Luxembourger"
+
+   #FASCISM
+
+    LUX_fascism:0 "Państwo Luxembourg"
+    LUX_fascism_DEF:0 "Państwo Luxembourg"
+    LUX_fascism_ADJ:0 "Luxembourger"
+
+   #NEUTRALITY
+
+    LUX_neutrality:0 "Grand Duchy Luxembourg"
+    LUX_neutrality_DEF:0 "Grand Duchy Luxembourg"
+    LUX_neutrality_ADJ:0 "Luxembourger"
+
+   #TAG
+
+    LUX:0 "Luxembourg"
+    LUX_DEF:0 "Luxembourger Państwo"
+    LUX_ADJ:0 "Luxembourger"
+
+ ###MACEDONIA
+
+   #COMMUNISM
+
+    MAC_communism:0 "Demokratyczna Republika Macedonia"
+    MAC_communism_DEF:0 "Demokratyczna Republika Macedonia"
+    MAC_communism_ADJ:0 "Macedonian"
+
+   #DEMOCRATIC
+
+    MAC_democratic:0 "Republika Macedonia"
+    MAC_democratic_DEF:0 "Republika Macedonia"
+    MAC_democratic_ADJ:0 "Macedonian"
+
+   #FASCISM
+
+    MAC_fascism:0 "Macedonian Państwo"
+    MAC_fascism_DEF:0 "Macedonian Państwo"
+    MAC_fascism_ADJ:0 "Macedonian"
+
+   #NEUTRALITY
+
+    MAC_neutrality:0 "Republika Macedonia"
+    MAC_neutrality_DEF:0 "Republika Macedonia"
+    MAC_neutrality_ADJ:0 "Macedonian"
+
+   #TAG
+
+    MAC:0 "Macedonia"
+    MAC_DEF:0 "Macedonian Państwo"
+    MAC_ADJ:0 "Macedonian"
+
+ ###MALTA
+
+   #COMMUNISM
+
+    MLT_communism:0 "Ludowa Republika Malta"
+    MLT_communism_DEF:0 "Ludowa Republika Malta"
+    MLT_communism_ADJ:0 "Maltese"
+
+   #DEMOCRATIC
+
+    MLT_democratic:0 "Republika Malta"
+    MLT_democratic_DEF:0 "Republika Malta"
+    MLT_democratic_ADJ:0 "Maltese"
+
+   #FASCISM
+
+    MLT_fascism:0 "Maltese Social Republika"
+    MLT_fascism_DEF:0 "Maltese Social Republika"
+    MLT_fascism_ADJ:0 "Maltese"
+
+   #NEUTRALITY
+
+    MLT_neutrality:0 "Państwo Malta"
+    MLT_neutrality_DEF:0 "Państwo Malta"
+    MLT_neutrality_ADJ:0 "Maltese"
+
+   #TAG
+
+    MLT:0 "Malta"
+    MLT_DEF:0 "Maltese Państwo"
+    MLT_ADJ:0 "Maltese"
+
+ ###MARI EL
+
+   #COMMUNISM
+
+    MEL_communism:0 "Mari Socjalistyczna Republika"
+    MEL_communism_DEF:0 "Mari Socjalistyczna Republika"
+    MEL_communism_ADJ:0 "Mari"
+
+   #DEMOCRATIC
+
+    MEL_democratic:0 "Republika Mari El"
+    MEL_democratic_DEF:0 "Republika Mari El"
+    MEL_democratic_ADJ:0 "Mari"
+
+   #FASCISM
+
+    MEL_fascism:0 "Mari Państwo"
+    MEL_fascism_DEF:0 "Mari Państwo"
+    MEL_fascism_ADJ:0 "Mari"
+
+   #NEUTRALITY
+
+    MEL_neutrality:0 "Republika Mari El"
+    MEL_neutrality_DEF:0 "Republika Mari El"
+    MEL_neutrality_ADJ:0 "Mari"
+
+   #TAG
+
+    MEL:0 "Mari El"
+    MEL_DEF:0 "Mari Państwo"
+    MEL_ADJ:0 "Mari"
+
+ ###MAURITANIA
+
+   #COMMUNISM
+
+    MRT_communism:0 "Socjalistyczna Republika Mauritania"
+    MRT_communism_DEF:0 "Socjalistyczna Republika Mauritania"
+    MRT_communism_ADJ:0 "Mauritanian"
+
+   #DEMOCRATIC
+
+    MRT_democratic:0 "Islamic Republika Mauritania"
+    MRT_democratic_DEF:0 "Islamic Republika Mauritania"
+    MRT_democratic_ADJ:0 "Mauritanian"
+
+   #FASCISM
+
+    MRT_fascism:0 "Mauritanian Państwo"
+    MRT_fascism_DEF:0 "Mauritanian Państwo"
+    MRT_fascism_ADJ:0 "Mauritanian"
+
+   #NEUTRALITY
+
+    MRT_neutrality:0 "Islamic Republika Mauritania"
+    MRT_neutrality_DEF:0 "Islamic Republika Mauritania"
+    MRT_neutrality_ADJ:0 "Mauritanian"
+
+   #TAG
+
+    MRT:0 "Mauritania"
+    MRT_DEF:0 "Mauritanian Państwo"
+    MRT_ADJ:0 "Mauritanian"
+
+ ###MOLDAVIA
+
+   #COMMUNISM
+
+    MOL_communism:0 "Moldavian Socjalistyczna Republika"
+    MOL_communism_DEF:0 "Moldavian Socjalistyczna Republika"
+    MOL_communism_ADJ:0 "Moldavian"
+
+   #DEMOCRATIC
+
+    MOL_democratic:0 "Moldavian Demokratyczna Republika"
+    MOL_democratic_DEF:0 "Moldavian Demokratyczna Republika"
+    MOL_democratic_ADJ:0 "Moldavian"
+
+   #FASCISM
+
+    MOL_fascism:0 "Legionowe Państwo Moldavia"
+    MOL_fascism_DEF:0 "Legionowe Państwo Moldavia"
+    MOL_fascism_ADJ:0 "Moldavian"
+
+   #NEUTRALITY
+
+    MOL_neutrality:0 "Principality Moldavia"
+    MOL_neutrality_DEF:0 "Principality Moldavia"
+    MOL_neutrality_ADJ:0 "Moldavian"
+
+   #TAG
+
+    MOL:0 "Moldavia"
+    MOL_DEF:0 "Moldavian Państwo"
+    MOL_ADJ:0 "Moldavian"
+
+ ###MONTENEGRO
+
+   #COMMUNISM
+
+    MNT_communism:0 "Ludowa Państwo Montenegro"
+    MNT_communism_DEF:0 "Ludowa Państwo Montenegro"
+    MNT_communism_ADJ:0 "Montenegrin"
+
+   #DEMOCRATIC
+
+    MNT_democratic:0 "Państwo Montenegro"
+    MNT_democratic_DEF:0 "Państwo Montenegro"
+    MNT_democratic_ADJ:0 "Montenegrin"
+
+   #FASCISM
+
+    MNT_fascism:0 "Montenegrin Państwo"
+    MNT_fascism_DEF:0 "Montenegrin Państwo"
+    MNT_fascism_ADJ:0 "Montenegrin"
+
+   #NEUTRALITY
+
+    MNT_neutrality:0 "Królestwo Montenegro"
+    MNT_neutrality_DEF:0 "Królestwo Montenegro"
+    MNT_neutrality_ADJ:0 "Montenegrin"
+
+   #TAG
+
+    MNT:0 "Montenegro"
+    MNT_DEF:0 "Montenegrin Państwo"
+    MNT_ADJ:0 "Montenegrin"
+
+ ###MOROCCO
+
+   #COMMUNISM
+
+    MOR_communism:0 "Republika Morocco"
+    MOR_communism_DEF:0 "Republika Morocco"
+    MOR_communism_ADJ:0 "Moroccan"
+
+   #DEMOCRATIC
+
+    MOR_democratic:0 "Republika Morocco"
+    MOR_democratic_DEF:0 "Republika Morocco"
+    MOR_democratic_ADJ:0 "Moroccan"
+
+   #FASCISM
+
+    MOR_fascism:0 "Moroccan Państwo"
+    MOR_fascism_DEF:0 "Moroccan Państwo"
+    MOR_fascism_ADJ:0 "Moroccan"
+
+   #NEUTRALITY
+
+    MOR_neutrality:0 "Królestwo Morocco"
+    MOR_neutrality_DEF:0 "Królestwo Morocco"
+    MOR_neutrality_ADJ:0 "Moroccan"
+
+   #TAG
+
+    MOR:0 "Morocco"
+    MOR_DEF:0 "Moroccan Państwo"
+    MOR_ADJ:0 "Moroccan"
+
+ ###NENETSIA
+
+  #COMMUNISM
+
+   NEN_communism:0 "Nenets Ludowa Republika"
+   NEN_communism_DEF:0 "Nenets Ludowa Republika"
+   NEN_communism_ADJ:0 "Nenets"
+
+  #DEMOCRATIC
+
+   NEN_democratic:0 "Nenets Republika"
+   NEN_democratic_DEF:0 "Nenets Republika"
+   NEN_democratic_ADJ:0 "Nenets"
+
+  #FASCISM
+
+   NEN_fascism:0 "Nenets Państwo"
+   NEN_fascism_DEF:0 "Nenets Państwo"
+   NEN_fascism_ADJ:0 "Nenets"
+
+  #NEUTRALITY
+
+   NEN_neutrality:0 "Nenets Państwo"
+   NEN_neutrality_DEF:0 "Nenets Państwo"
+   NEN_neutrality_ADJ:0 "Nenets"
+
+  #TAG
+
+   NEN:0 "Nenetsia"
+   NEN_DEF:0 "Nenets Państwo"
+   NEN_ADJ:0 "Nenets"
+
+ ###NETHERLANDS
+
+  #COMMUNISM
+
+   HOL_communism:0 "Dutch Ludowa Republika"
+   HOL_communism_DEF:0 "Dutch Ludowa Republika"
+   HOL_communism_ADJ:0 "Dutch"
+
+  #DEMOCRATIC
+
+   HOL_democratic:0 "Królestwo Netherlands"
+   HOL_democratic_DEF:0 "Królestwo Netherlands"
+   HOL_democratic_ADJ:0 "Dutch"
+
+  #FASCISM
+
+   HOL_fascism:0 "Królestwo Dutchland"
+   HOL_fascism_DEF:0 "Królestwo Dutchland"
+   HOL_fascism_ADJ:0 "Dutch"
+
+  #NEUTRALITY
+
+   HOL_neutrality:0 "Królestwo Netherlands"
+   HOL_neutrality_DEF:0 "Królestwo Netherlands"
+   HOL_neutrality_ADJ:0 "Dutch"
+
+  #TAG
+
+   HOL:0 "Netherlands"
+   HOL_DEF:0 "Dutch Państwo"
+   HOL_ADJ:0 "Dutch"
+
+ ###NORTH OSSETIA
+
+   #COMMUNISM
+
+    NOA_communism:0 "North Ossetian Socjalistyczna Republika"
+    NOA_communism_DEF:0 "North Ossetian Socjalistyczna Republika"
+    NOA_communism_ADJ:0 "North Ossetian"
+
+   #DEMOCRATIC
+
+    NOA_democratic:0 "North Ossetian Republika"
+    NOA_democratic_DEF:0 "North Ossetian Republika"
+    NOA_democratic_ADJ:0 "North Ossetian"
+
+   #FASCISM
+
+    NOA_fascism:0 "North Ossetian Państwo"
+    NOA_fascism_DEF:0 "North Ossetian Państwo"
+    NOA_fascism_ADJ:0 "North Ossetian"
+
+   #NEUTRALITY
+
+    NOA_neutrality:0 "North Ossetian Państwo"
+    NOA_neutrality_DEF:0 "North Ossetian Państwo"
+    NOA_neutrality_ADJ:0 "North Ossetian"
+
+   #TAG
+
+    NOA:0 "North Ossetia"
+    NOA_DEF:0 "North Ossetian Państwo"
+    NOA_ADJ:0 "North Ossetian"
+
+ ###NORTHERN IRELAND
+
+   #COMMUNISM
+
+    NIR_communism:0 "Northern Irish Socjalistyczna Republika"
+    NIR_communism_DEF:0 "Northern Irish Socjalistyczna Republika"
+    NIR_communism_ADJ:0 "Northern Ireland"
+
+   #DEMOCRATIC
+
+    NIR_democratic:0 "Republika Northern Ireland"
+    NIR_democratic_DEF:0 "Republika Northern Ireland"
+    NIR_democratic_ADJ:0 "Northern Irish"
+
+   #FASCISM
+
+    NIR_fascism:0 "Republika Ulster"
+    NIR_fascism_DEF:0 "Republika Ulster"
+    NIR_fascism_ADJ:0 "Ulsterian"
+
+   #NEUTRALITY
+
+    NIR_neutrality:0 "Państwo Northern Ireland"
+    NIR_neutrality_DEF:0 "Państwo Northern Ireland"
+    NIR_neutrality_ADJ:0 "Northern Irish"
+
+   #TAG
+
+    NIR:0 "Northern Ireland"
+    NIR_DEF:0 "Northern Irish Państwo"
+    NIR_ADJ:0 "Northern Irish"
+
+ ###Norwegii
+
+   #COMMUNISM
+
+    NOR_communism:0 "Socjalistyczna Republika Norwegii"
+    NOR_communism_DEF:0 "Socjalistyczna Republika Norwegii"
+    NOR_communism_ADJ:0 "Norweska"
+
+   #DEMOCRATIC
+
+    NOR_democratic:0 "Królestwo Norwegii"
+    NOR_democratic_DEF:0 "Królestwo Norwegii"
+    NOR_democratic_ADJ:0 "Norweska"
+
+   #FASCISM
+
+    NOR_fascism:0 "Nacjonalistyczna Państwo Norwegii"
+    NOR_fascism_DEF:0 "Nacjonalistyczna Państwo Norwegii"
+    NOR_fascism_ADJ:0 "Norweska"
+
+   #NEUTRALITY
+
+    NOR_neutrality:0 "Królestwo Norwegii"
+    NOR_neutrality_DEF:0 "Królestwo Norwegii"
+    NOR_neutrality_ADJ:0 "Norweska"
+
+   #TAG
+
+    NOR:0 "Norwegii"
+    NOR_DEF:0 "Norweskie Państwo"
+    NOR_ADJ:0 "Norweska"
+
+ ###OCCITANIA
+
+   #COMMUNISM
+
+    OCC_communism:0 "Unia Occitan Komunas"
+    OCC_communism_DEF:0 "Unia Occitan Komunas"
+    OCC_communism_ADJ:0 "Occitan"
+
+   #DEMOCRATIC
+
+    OCC_democratic:0 "Occitan Republika"
+    OCC_democratic_DEF:0 "Occitan Republika"
+    OCC_democratic_ADJ:0 "Occitan"
+
+   #FASCISM
+
+    OCC_fascism:0 "Occitan Social Republika"
+    OCC_fascism_DEF:0 "Occitan Social Republika"
+    OCC_fascism_ADJ:0 "Occitan"
+
+   #NEUTRALITY
+
+    OCC_neutrality:0 "Occitan Państwo"
+    OCC_neutrality_DEF:0 "Occitan Państwo"
+    OCC_neutrality_ADJ:0 "Occitan"
+
+   #TAG
+
+    OCC:0 "Occitania"
+    OCC_DEF:0 "Occitan Państwo"
+    OCC_ADJ:0 "Occitan"
+
+ ###OMAN
+
+   #COMMUNISM
+
+    OMA_communism:0 "Ludowa Republika Oman"
+    OMA_communism_DEF:0 "Ludowa Republika Oman"
+    OMA_communism_ADJ:0 "Omani"
+
+   #DEMOCRATIC
+
+    OMA_democratic:0 "Republika Oman"
+    OMA_democratic_DEF:0 "Republika Oman"
+    OMA_democratic_ADJ:0 "Omani"
+
+   #FASCISM
+
+    OMA_fascism:0 "Omani Państwo"
+    OMA_fascism_DEF:0 "Omani Państwo"
+    OMA_fascism_ADJ:0 "Omani"
+
+   #NEUTRALITY
+
+    OMA_neutrality:0 "Sultanate Muscat and Oman"
+    OMA_neutrality_DEF:0 "Sultanate Muscat and Oman"
+    OMA_neutrality_ADJ:0 "Omani"
+
+   #TAG
+
+    OMA:0 "Oman"
+    OMA_DEF:0 "Omani Państwo"
+    OMA_ADJ:0 "Omani"
+
+ ###PALESTINE
+
+   #COMMUNISM
+
+    PAL_communism:0 "Socjalistyczna Republika Palestine"
+    PAL_communism_DEF:0 "Socjalistyczna Republika Palestine"
+    PAL_communism_ADJ:0 "Palestinian"
+
+   #DEMOCRATIC
+
+    PAL_democratic:0 "Państwo Palestine"
+    PAL_democratic_DEF:0 "Państwo Palestine"
+    PAL_democratic_ADJ:0 "Palestinian"
+
+   #FASCISM
+
+    PAL_fascism:0 "Państwo Palestine"
+    PAL_fascism_DEF:0 "Państwo Palestine"
+    PAL_fascism_ADJ:0 "Palestinian"
+
+   #NEUTRALITY
+
+    PAL_neutrality:0 "Państwo Palestine"
+    PAL_neutrality_DEF:0 "Państwo Palestine"
+    PAL_neutrality_ADJ:0 "Palestinian"
+
+   #TAG
+
+    PAL:0 "Palestine"
+    PAL_DEF:0 "Palestinian Państwo"
+    PAL_ADJ:0 "Palestinian
+
+ ###POLAND
+
+   #COMMUNISM
+
+    POL_communism:0 "Polska Rzeczpospolita Ludowa"
+    POL_communism_DEF:0 "Polska Rzeczpospolita Ludowa"
+    POL_communism_ADJ:0 "Polski"
+
+   #DEMOCRATIC
+
+    POL_democratic:0 "Republika Polski"
+    POL_democratic_DEF:0 "Republika Polski"
+    POL_democratic_ADJ:0 "Polski"
+
+   #FASCISM
+
+    POL_fascism:0 "Nacjonalistyczne Państwo Polskie"
+    POL_fascism_DEF:0 "Nacjonalistyczne Państwo Polskie"
+    POL_fascism_ADJ:0 "Polski"
+
+   #NEUTRALITY
+
+    POL_neutrality:0 "Republika Polaski"
+    POL_neutrality_DEF:0 "Republika Polski"
+    POL_neutrality_ADJ:0 "Polski"
+
+   #TAG
+
+    POL:0 "Polska"
+    POL_DEF:0 "Państwo Polskie"
+    POL_ADJ:0 "Polski"
+
+ ###PORTUGAL
+
+   #COMMUNISM
+
+    POR_communism:0 "Ludowa Republika Portugalska"
+    POR_communism_DEF:0 "Ludowa Republika Portugalska"
+    POR_communism_ADJ:0 "Portugalska"
+
+   #DEMOCRATIC
+
+    POR_democratic:0 "Portugalska Republika"
+    POR_democratic_DEF:0 "Portugalska Republika"
+    POR_democratic_ADJ:0 "Portugalska"
+
+   #FASCISM
+
+    POR_fascism:0 "Portugalska Nacjonalistyczna Republika"
+    POR_fascism_DEF:0 "Portugalska Nacjonalistyczna Republika"
+    POR_fascism_ADJ:0 "Portugalska"
+
+   #NEUTRALITY
+
+    POR_neutrality:0 "Portugalska Republika"
+    POR_neutrality_DEF:0 "Portugalska Republika"
+    POR_neutrality_ADJ:0 "Portugalska"
+
+   #TAG
+
+    POR:0 "Portugal"
+    POR_DEF:0 "Portugalska Państwo"
+    POR_ADJ:0 "Portugalska"
+
+ ###PRUSSIA
+
+   #COMMUNISM
+
+    PRE_communism:0 "Prussian Radna Republika"
+    PRE_communism_DEF:0 "Prussian Radna Republika"
+    PRE_communism_ADJ:0 "Prussian"
+
+   #DEMOCRATIC
+
+    PRE_democratic:0 "Wolne Państwo Prussia"
+    PRE_democratic_DEF:0 "Wolne Państwo Prussia"
+    PRE_democratic_ADJ:0 "Prussian"
+
+   #FASCISM
+
+    PRE_fascism:0 "Prussian Reich"
+    PRE_fascism_DEF:0 "Prussian Reich"
+    PRE_fascism_ADJ:0 "Prussian"
+
+   #NEUTRALITY
+
+    PRE_neutrality:0 "Królestwo Prussia"
+    PRE_neutrality_DEF:0 "Królestwo Prussia"
+    PRE_neutrality_ADJ:0 "Prussian"
+
+   #TAG
+
+    PRE:0 "Prussia"
+    PRE_DEF:0 "Prussian Państwo"
+    PRE_ADJ:0 "Prussian"
+
+ ###QATAR
+
+   #COMMUNISM
+
+    QAT_communism:0 "Państwo Qatar"
+    QAT_communism_DEF:0 "Państwo Qatar"
+    QAT_communism_ADJ:0 "Qatari"
+
+   #DEMOCRATIC
+
+    QAT_democratic:0 "Republika Qatar"
+    QAT_democratic_DEF:0 "Republika Qatar"
+    QAT_democratic_ADJ:0 "Qatari"
+
+   #FASCISM
+
+    QAT_fascism:0 "Państwo Qatar"
+    QAT_fascism_DEF:0 "Państwo Qatar"
+    QAT_fascism_ADJ:0 "Qatari"
+
+   #NEUTRALITY
+
+    QAT_neutrality:0 "Państwo Qatar"
+    QAT_neutrality_DEF:0 "Państwo Qatar"
+    QAT_neutrality_ADJ:0 "Qatari"
+
+   #TAG
+
+    QAT:0 "Qatar"
+    QAT_DEF:0 "Qatari Państwo"
+    QAT_ADJ:0 "Qatari"
+
+ ###RIF
+
+   #COMMUNISM
+
+    RIF_communism:0 "Socjalistyczna Republika Rif"
+    RIF_communism_DEF:0 "Socjalistyczna Republika Rif"
+    RIF_communism_ADJ:0 "Rifian"
+
+   #DEMOCRATIC
+
+    RIF_democratic:0 "Republika Rif"
+    RIF_democratic_DEF:0 "Republika Rif"
+    RIF_democratic_ADJ:0 "Rifian"
+
+   #FASCISM
+
+    RIF_fascism:0 "Rifian Państwo"
+    RIF_fascism_DEF:0 "Rifian Państwo"
+    RIF_fascism_ADJ:0 "Rifian"
+
+   #NEUTRALITY
+
+    RIF_neutrality:0 "ConFederalne Republika Tribes Rif"
+    RIF_neutrality_DEF:0 "ConFederalne Republika Tribes Rif"
+    RIF_neutrality_ADJ:0 "Rifian"
+
+   #TAG
+
+    RIF:0 "Rif"
+    RIF_DEF:0 "Rifian Państwo"
+    RIF_ADJ:0 "Rifian"
+
+ ###Rumunii
+
+   #COMMUNISM
+
+    ROM_communism:0 "Rumuńska Ludowa Republika"
+    ROM_communism_DEF:0 "Rumuńska Ludowa Republika"
+    ROM_communism_ADJ:0 "Rumuńska"
+
+   #DEMOCRATIC
+
+    ROM_democratic:0 "Królestwo Rumunii"
+    ROM_democratic_DEF:0 "Królestwo Rumunii"
+    ROM_democratic_ADJ:0 "Rumuńska"
+
+   #FASCISM
+
+    ROM_fascism:0 "Rumuńska Nacjonalistyczna Legionowe Państwo"
+    ROM_fascism_DEF:0 "Rumuńska Nacjonalistyczna Legionowe Państwo"
+    ROM_fascism_ADJ:0 "Rumuńska"
+
+   #NEUTRALITY
+
+    ROM_neutrality:0 "Królestwo Rumunii"
+    ROM_neutrality_DEF:0 "Królestwo Rumunii"
+    ROM_neutrality_ADJ:0 "Rumuńska"
+
+   #TAG
+
+    ROM:0 "Rumunia"
+    ROM_DEF:0 "Rumuńska Państwo"
+    ROM_ADJ:0 "Rumuńska"
+
+ ###SAUDI ARABIA
+
+   #COMMUNISM
+
+    SAU_communism:0 "Arabian Ludowa Republika"
+    SAU_communism_DEF:0 "Arabian Ludowa Republika"
+    SAU_communism_ADJ:0 "Arabian"
+
+   #DEMOCRATIC
+
+    SAU_democratic:0 "Saudi Arab Republika"
+    SAU_democratic_DEF:0 "Saudi Arab Republika"
+    SAU_democratic_ADJ:0 "Saudi Arabian"
+
+   #FASCISM
+
+    SAU_fascism:0 "Saudi Arab Państwo"
+    SAU_fascism_DEF:0 "Saudi Arab Państwo"
+    SAU_fascism_ADJ:0 "Saudi Arabian"
+
+   #NEUTRALITY
+
+    SAU_neutrality:0 "Saudi Arab Królestwo"
+    SAU_neutrality_DEF:0 "Saudi Arab Królestwo"
+    SAU_neutrality_ADJ:0 "Saudi Arabian"
+
+   #TAG
+
+    SAU:0 "Saudi Arabia"
+    SAU_DEF:0 "Saudi Arab Państwo"
+    SAU_ADJ:0 "Saudi Arabian"
+
+ ###SAXONY
+
+   #COMMUNISM
+
+    SAX_communism:0 "Saxon Radna Republika"
+    SAX_communism_DEF:0 "Saxon Radna Republika"
+    SAX_communism_ADJ:0 "Saxon"
+
+   #DEMOCRATIC
+
+    SAX_democratic:0 "Wolne Państwo Saxony"
+    SAX_democratic_DEF:0 "Wolne Państwo Saxony"
+    SAX_democratic_ADJ:0 "Saxon"
+
+   #FASCISM
+
+    SAX_fascism:0 "Saxon Państwo"
+    SAX_fascism_DEF:0 "Saxon Państwo"
+    SAX_fascism_ADJ:0 "Saxon"
+
+   #NEUTRALITY
+
+    SAX_neutrality:0 "Królestwo Saxony"
+    SAX_neutrality_DEF:0 "Królestwo Saxony"
+    SAX_neutrality_ADJ:0 "Saxon"
+
+   #TAG
+
+    SAX:0 "Saxony"
+    SAX_DEF:0 "Saxon Państwo"
+    SAX_ADJ:0 "Saxon"
+
+ ###SCHLESWIG-HOLSTEIN
+
+   #COMMUNISM
+
+    SHL_communism:0 "Schleswig-Holsteiner Radna Republika"
+    SHL_communism_DEF:0 "Schleswig-Holsteiner Radna Republika"
+    SHL_communism_ADJ:0 "Schleswig-Holsteiner"
+
+   #DEMOCRATIC
+
+    SHL_democratic:0 "Wolne Państwo Schleswig-Holstein"
+    SHL_democratic_DEF:0 "Wolne Państwo Schleswig-Holstein"
+    SHL_democratic_ADJ:0 "Schleswig-Holsteiner"
+
+   #FASCISM
+
+    SHL_fascism:0 "Państwo Schleswig-Holstein"
+    SHL_fascism_DEF:0 "Państwo Schleswig-Holstein"
+    SHL_fascism_ADJ:0 "Schleswig-Holsteiner"
+
+   #NEUTRALITY
+
+    SHL_neutrality:0 "Duchy Schleswig-Holstein"
+    SHL_neutrality_DEF:0 "Duchy Schleswig-Holstein"
+    SHL_neutrality_ADJ:0 "Schleswig-Holsteiner"
+
+   #TAG
+
+    SHL:0 "Schleswig-Holstein"
+    SHL_DEF:0 "Schleswig-Holsteiner Państwo"
+    SHL_ADJ:0 "Schleswig-Holsteiner"
+
+ ###SCOTLAND
+
+   #COMMUNISM
+
+    SCO_communism:0 "Socjalistyczna Republika Scotland"
+    SCO_communism_DEF:0 "Socjalistyczna Republika Scotland"
+    SCO_communism_ADJ:0 "Scottish"
+
+   #DEMOCRATIC
+
+    SCO_democratic:0 "Republika Scotland"
+    SCO_democratic_DEF:0 "Republika Scotland"
+    SCO_democratic_ADJ:0 "Scottish"
+
+   #FASCISM
+
+    SCO_fascism:0 "Scottish Wspólnota"
+    SCO_fascism_DEF:0 "Scottish Wspólnota"
+    SCO_fascism_ADJ:0 "Scottish"
+
+   #NEUTRALITY
+
+    SCO_neutrality:0 "Scottish Wspólnota"
+    SCO_neutrality_DEF:0 "Scottish Wspólnota"
+    SCO_neutrality_ADJ:0 "Scottish"
+
+   #TAG
+
+    SCO:0 "Scotland"
+    SCO_DEF:0 "Scottish Państwo"
+    SCO_ADJ:0 "Scottish"
+
+ ###SERBIA
+
+   #COMMUNISM
+
+    SER_communism:0 "Ludowa Republika Serbia"
+    SER_communism_DEF:0 "Ludowa Republika Serbia"
+    SER_communism_ADJ:0 "Serbian"
+
+   #DEMOCRATIC
+
+    SER_democratic:0 "Republika Serbia"
+    SER_democratic_DEF:0 "Republika Serbia"
+    SER_democratic_ADJ:0 "Serbian"
+
+   #FASCISM
+
+    SER_fascism:0 "Nacjonalistyczna Państwo Serbia"
+    SER_fascism_DEF:0 "Nacjonalistyczna Państwo Serbia"
+    SER_fascism_ADJ:0 "Serbian"
+
+   #NEUTRALITY
+
+    SER_neutrality:0 "Królestwo Serbia"
+    SER_neutrality_DEF:0 "Królestwo Serbia"
+    SER_neutrality_ADJ:0 "Serbian"
+
+   #TAG
+
+    SER:0 "Serbia"
+    SER_DEF:0 "Serbian Państwo"
+    SER_ADJ:0 "Serbian"
+
+ ###SILESIA
+
+   #COMMUNISM
+
+    SIL_communism:0 "Silesian Radna Republika"
+    SIL_communism_DEF:0 "Silesian Radna Republika"
+    SIL_communism_ADJ:0 "Silesian"
+
+   #DEMOCRATIC
+
+    SIL_democratic:0 "Wolne Państwo Silesia"
+    SIL_democratic_DEF:0 "Wolne Państwo Silesia"
+    SIL_democratic_ADJ:0 "Silesian"
+
+   #FASCISM
+
+    SIL_fascism:0 "Silesian Państwo"
+    SIL_fascism_DEF:0 "Silesian Państwo"
+    SIL_fascism_ADJ:0 "Silesian"
+
+   #NEUTRALITY
+
+    SIL_neutrality:0 "Duchy Silesia"
+    SIL_neutrality_DEF:0 "Duchy Silesia"
+    SIL_neutrality_ADJ:0 "Silesian"
+
+   #TAG
+
+    SIL:0 "Silesia"
+    SIL_DEF:0 "Silesian Państwo"
+    SIL_ADJ:0 "Silesian"
+
+ ###Słowacja
+
+   #COMMUNISM
+
+    SLO_communism:0 "Słowacka Socjalistyczna Republika"
+    SLO_communism_DEF:0 "Słowacka Socjalistyczna Republika"
+    SLO_communism_ADJ:0 "Słowacka"
+
+   #DEMOCRATIC
+
+    SLO_democratic:0 "Słowacka Republika"
+    SLO_democratic_DEF:0 "Słowacka Republika"
+    SLO_democratic_ADJ:0 "Słowacka"
+
+   #FASCISM
+
+    SLO_fascism:0 "Słowacka Republika"
+    SLO_fascism_DEF:0 "Słowacka Republika"
+    SLO_fascism_ADJ:0 "Słowacka"
+
+   #NEUTRALITY
+
+    SLO_neutrality:0 "Słowacka Republika"
+    SLO_neutrality_DEF:0 "Słowacka Republika"
+    SLO_neutrality_ADJ:0 "Słowacka"
+
+   #TAG
+
+    SLO:0 "Słowacja"
+    SLO_DEF:0 "Słowackie Państwo"
+    SLO_ADJ:0 "Słowacka"
+
+ ###SLOVENIA
+
+   #COMMUNISM
+
+    SLV_communism:0 "Ludowa Republika Slovenia"
+    SLV_communism_DEF:0 "Ludowa Republika Slovenia"
+    SLV_communism_ADJ:0 "Slovenian"
+
+   #DEMOCRATIC
+
+    SLV_democratic:0 "Republika Slovenia"
+    SLV_democratic_DEF:0 "Republika Slovenia"
+    SLV_democratic_ADJ:0 "Slovenian"
+
+   #FASCISM
+
+    SLV_fascism:0 "Slovene Państwo"
+    SLV_fascism_DEF:0 "Slovene Państwo"
+    SLV_fascism_ADJ:0 "Slovenian"
+
+   #NEUTRALITY
+
+    SLV_neutrality:0 "Państwo Slovenia"
+    SLV_neutrality_DEF:0 "Państwo Slovenia"
+    SLV_neutrality_ADJ:0 "Slovenian"
+
+   #TAG
+
+    SLV:0 "Slovenia"
+    SLV_DEF:0 "Slovenian Państwo"
+    SLV_ADJ:0 "Slovenian"
+
+ ###Sowiecka UNION
+
+   #COMMUNISM
+
+    SOV_communism:0 "Unia Sowiecka Socjalistyczna Republikas"
+    SOV_communism_DEF:0 "Unia Sowiecka Socjalistyczna Republikas"
+    SOV_communism_ADJ:0 "Sowiecka"
+
+   #DEMOCRATIC
+
+    SOV_democratic:0 "Russian Demokratyczna Federative Republika"
+    SOV_democratic_DEF:0 "Russian Demokratyczna Federative Republika"
+    SOV_democratic_ADJ:0 "Russian"
+
+   #FASCISM
+
+    SOV_fascism:0 "Russian Nacjonalistyczna Państwo"
+    SOV_fascism_DEF:0 "Russian Nacjonalistyczna Państwo"
+    SOV_fascism_ADJ:0 "Russian"
+
+   #NEUTRALITY
+
+    SOV_neutrality:0 "Russian Państwo"
+    SOV_neutrality_DEF:0 "Russian Państwo"
+    SOV_neutrality_ADJ:0 "Russian"
+
+   #TAG
+
+    SOV:0 "Sowiecka Union"
+    SOV_DEF:0 "Sowiecka Państwo"
+    SOV_ADJ:0 "Sowiecka"
+
+ ###SPAIN
+
+  ##SPR - Original
+
+   #COMMUNISM
+
+    SPR_communism:0 "Ludowa Republika Spain"
+    SPR_communism_DEF:0 "Ludowa Republika Spain"
+    SPR_communism_ADJ:0 "Spanish"
+
+   #DEMOCRATIC
+
+    SPR_democratic:0 "Spanish Republika"
+    SPR_democratic_DEF:0 "Spanish Republika"
+    SPR_democratic_ADJ:0 "Spanish"
+
+   #FASCISM
+
+    SPR_fascism:0 "Spanish Państwo"
+    SPR_fascism_DEF:0 "Spanish Państwo"
+    SPR_fascism_ADJ:0 "Spanish"
+
+   #NEUTRALITY
+
+    SPR_neutrality:0 "Królestwo Spain"
+    SPR_neutrality_DEF:0 "Królestwo Spain"
+    SPR_neutrality_ADJ:0 "Spanish"
+
+   #TAG
+
+    SPR:0 "Spain"
+    SPR_DEF:0 "Spanish Państwo"
+    SPR_ADJ:0 "Spanish"
+
+  ##SPA - Nacjonalistycznaist
+
+   #TAG
+
+    SPA:0 "Spanish Państwo"
+    SPA_DEF:0 "Spanish Państwo"
+    SPA_ADJ:0 "Nacjonalistycznaist"
+
+  ##SPB - Carlist
+
+   #TAG
+
+    SPB:0 "Królestwo Spain"
+    SPB_DEF:0 "Królestwo Spain"
+    SPB_ADJ:0 "Spanish"
+
+  ##SPC - Anarchist
+
+   #TAG
+
+    SPC:0 "Iberian Federation"
+    SPC_DEF:0 "Iberian Federation"
+    SPC_ADJ:0 "Iberian"
+
+  ##SPD - Republikaan
+
+   #TAG
+
+    SPD:0 "Spanish Republika"
+    SPD_DEF:0 "Spanish Republika"
+    SPD_ADJ:0 "Spanish"
+
+ ###Szwecji
+
+   #COMMUNISM
+
+    SWE_communism:0 "Republika Szwecji"
+    SWE_communism_DEF:0 "Republika Szwecji"
+    SWE_communism_ADJ:0 "Szwedzkie"
+
+   #DEMOCRATIC
+
+    SWE_democratic:0 "Królestwo Szwecji"
+    SWE_democratic_DEF:0 "Królestwo Szwecji"
+    SWE_democratic_ADJ:0 "Szwedzkie"
+
+   #FASCISM
+
+    SWE_fascism:0 "Szwedzkie Państwo"
+    SWE_fascism_DEF:0 "Szwedzkie Państwo"
+    SWE_fascism_ADJ:0 "Szwedzkie"
+
+   #NEUTRALITY
+
+    SWE_neutrality:0 "Królestwo Szwecji"
+    SWE_neutrality_DEF:0 "Królestwo Szwecji"
+    SWE_neutrality_ADJ:0 "Szwedzkie"
+
+   #TAG
+
+    SWE:0 "Szwecji"
+    SWE_DEF:0 "Szwedzkie Państwo"
+    SWE_ADJ:0 "Szwedzkie"
+
+ ###SWITZERLAND
+ 
+   #COMMUNISM
+
+    SWI_communism:0 "Unia Helvetia"
+    SWI_communism_DEF:0 "Unia Helvetia"
+    SWI_communism_ADJ:0 "Swiss"
+
+   #DEMOCRATIC
+
+    SWI_democratic:0 "Swiss Confederation"
+    SWI_democratic_DEF:0 "Swiss Confederation"
+    SWI_democratic_ADJ:0 "Swiss"
+
+   #FASCISM
+
+    SWI_fascism:0 "Swiss Państwo"
+    SWI_fascism_DEF:0 "Swiss Państwo"
+    SWI_fascism_ADJ:0 "Swiss"
+
+   #NEUTRALITY
+
+    SWI_neutrality:0 "Swiss Confederation"
+    SWI_neutrality_DEF:0 "Swiss Confederation"
+    SWI_neutrality_ADJ:0 "Swiss"
+
+   #TAG
+
+    SWI:0 "Switzerland"
+    SWI_DEF:0 "Swiss Państwo"
+    SWI_ADJ:0 "Swiss"
+
+ ###SYRIA
+
+   #COMMUNISM
+
+    SYR_communism:0 "Socjalistyczna Republika Syria"
+    SYR_communism_DEF:0 "Socjalistyczna Republika Syria"
+    SYR_communism_ADJ:0 "Syrian"
+
+   #DEMOCRATIC
+
+    SYR_democratic:0 "Syrian Republika"
+    SYR_democratic_DEF:0 "Syrian Republika"
+    SYR_democratic_ADJ:0 "Syrian"
+
+   #FASCISM
+
+    SYR_fascism:0 "Social Nacjonalistycznaist Republika Syria"
+    SYR_fascism_DEF:0 "Social Nacjonalistycznaist Republika Syria"
+    SYR_fascism_ADJ:0 "Syrian"
+
+   #NEUTRALITY
+
+    SYR_neutrality:0 "Królestwo Syria"
+    SYR_neutrality_DEF:0 "Królestwo Syria"
+    SYR_neutrality_ADJ:0 "Syrian"
+
+   #TAG
+
+    SYR:0 "Syria"
+    SYR_DEF:0 "Syrian Państwo"
+    SYR_ADJ:0 "Syrian"
+
+ ###TATARIA
+
+   #COMMUNISM
+
+    TAT_communism:0 "Tatar Socjalistyczna Republika"
+    TAT_communism_DEF:0 "Tatar Socjalistyczna Republika"
+    TAT_communism_ADJ:0 "Tatar"
+
+   #DEMOCRATIC
+
+    TAT_democratic:0 "Tatar Republika"
+    TAT_democratic_DEF:0 "Tatar Republika"
+    TAT_democratic_ADJ:0 "Tatar"
+
+   #FASCISM
+
+    TAT_fascism:0 "Tatar Nacjonalistyczna Republika"
+    TAT_fascism_DEF:0 "Tatar Nacjonalistyczna Republika"
+    TAT_fascism_ADJ:0 "Tatar"
+
+   #NEUTRALITY
+
+    TAT_neutrality:0 "Tatar Państwo"
+    TAT_neutrality_DEF:0 "Tatar Państwo"
+    TAT_neutrality_ADJ:0 "Tatar"
+
+   #TAG
+
+    TAT:0 "Tataria"
+    TAT_DEF:0 "Tatar Państwo"
+    TAT_ADJ:0 "Tatar"
+
+ ###TRANSYLVANIA
+
+   #COMMUNISM
+
+    TRA_communism:0 "Transylvanian Ludowa Republika"
+    TRA_communism_DEF:0 "Transylvanian Ludowa Republika"
+    TRA_communism_ADJ:0 "Transylvanian"
+
+   #DEMOCRATIC
+
+    TRA_democratic:0 "Republika Transylvania"
+    TRA_democratic_DEF:0 "Republika Transylvania"
+    TRA_democratic_ADJ:0 "Transylvanian"
+
+   #FASCISM
+
+    TRA_fascism:0 "Nacjonalistyczna Legionowe Państwo Transylvania"
+    TRA_fascism_DEF:0 "Nacjonalistyczna Legionowe Państwo Transylvania"
+    TRA_fascism_ADJ:0 "Transylvanian"
+
+   #NEUTRALITY
+
+    TRA_neutrality:0 "Principality Transylvania"
+    TRA_neutrality_DEF:0 "Principality Transylvania"
+    TRA_neutrality_ADJ:0 "Transylvanian"
+
+   #TAG
+
+    TRA:0 "Transylvania"
+    TRA_DEF:0 "Transylvanian Państwo"
+    TRA_ADJ:0 "Transylvanian"
+
+ ###TRUCIAL Stany
+
+   #COMMUNISM
+
+    UAE_communism:0 "Ludowa Arab Union"
+    UAE_communism_DEF:0 "Ludowa Arab Union"
+    UAE_communism_ADJ:0 "Arab"
+
+   #DEMOCRATIC
+
+    UAE_democratic:0 "Zjednoczone Arab Emirates"
+    UAE_democratic_DEF:0 "Zjednoczone Arab Emirates"
+    UAE_democratic_ADJ:0 "Emirati"
+
+   #FASCISM
+
+    UAE_fascism:0 "Trucial Stany"
+    UAE_fascism_DEF:0 "Trucial Stany"
+    UAE_fascism_ADJ:0 "Trucial"
+
+   #NEUTRALITY
+
+    UAE_neutrality:0 "Trucial Stany"
+    UAE_neutrality_DEF:0 "Trucial Stany"
+    UAE_neutrality_ADJ:0 "Trucial"
+
+   #TAG
+
+    UAE:0 "Trucial Stany"
+    UAE_DEF:0 "Trucial Stany"
+    UAE_ADJ:0 "Trucial"
+
+ ###TUNISIA
+
+   #COMMUNISM
+
+    TUN_communism:0 "Ludowa Republika Tunisia"
+    TUN_communism_DEF:0 "Ludowa Republika Tunisia"
+    TUN_communism_ADJ:0 "Tunisian"
+
+   #DEMOCRATIC
+
+    TUN_democratic:0 "Republika Tunisia"
+    TUN_democratic_DEF:0 "Republika Tunisia"
+    TUN_democratic_ADJ:0 "Tunisian"
+
+   #FASCISM
+
+    TUN_fascism:0 "Królestwo Tunisia"
+    TUN_fascism_DEF:0 "Królestwo Tunisia"
+    TUN_fascism_ADJ:0 "Tunisian"
+
+   #NEUTRALITY
+
+    TUN_neutrality:0 "Królestwo Tunisia"
+    TUN_neutrality_DEF:0 "Królestwo Tunisia"
+    TUN_neutrality_ADJ:0 "Tunisian"
+
+   #TAG
+
+    TUN:0 "Tunisia"
+    TUN_DEF:0 "Tunisian Państwo"
+    TUN_ADJ:0 "Tunisian"
+
+ ###TURKEY
+
+   #COMMUNISM
+
+    TUR_communism:0 "Turkish Socjalistyczna Republika"
+    TUR_communism_DEF:0 "Turkish Socjalistyczna Republika"
+    TUR_communism_ADJ:0 "Turkish"
+
+   #DEMOCRATIC
+
+    TUR_democratic:0 "Republika Turkey"
+    TUR_democratic_DEF:0 "Republika Turkey"
+    TUR_democratic_ADJ:0 "Turkish"
+
+   #FASCISM
+
+    TUR_fascism:0 "Turkey"
+    TUR_fascism_DEF:0 "Turkish Państwo"
+    TUR_fascism_ADJ:0 "Turkish"
+
+   #NEUTRALITY
+
+    TUR_neutrality:0 "Republika Turkey"
+    TUR_neutrality_DEF:0 "Republika Turkey"
+    TUR_neutrality_ADJ:0 "Turkish"
+
+   #TAG
+
+    TUR:0 "Turkey"
+    TUR_DEF:0 "Turkish Państwo"
+    TUR_ADJ:0 "Turkish"
+
+ ###TURKMENISTAN
+
+   #COMMUNISM
+
+    TMS_communism:0 "Turkmenistani Socjalistyczna Republika"
+    TMS_communism_DEF:0 "Turkmenistani Socjalistyczna Republika"
+    TMS_communism_ADJ:0 "Turkmenistani"
+
+   #DEMOCRATIC
+
+    TMS_democratic:0 "Republika Turkmenistan"
+    TMS_democratic_DEF:0 "Republika Turkmenistan"
+    TMS_democratic_ADJ:0 "Turkmenistani"
+
+   #FASCISM
+
+    TMS_fascism:0 "Turkmen Państwo"
+    TMS_fascism_DEF:0 "Turkmen Państwo"
+    TMS_fascism_ADJ:0 "Turkmenistani"
+
+   #NEUTRALITY
+
+    TMS_neutrality:0 "Turkmen Państwo"
+    TMS_neutrality_DEF:0 "Turkmen Państwo"
+    TMS_neutrality_ADJ:0 "Turkmenistani"
+
+   #TAG
+
+    TMS:0 "Turkmenistan"
+    TMS_DEF:0 "Turkmenistani Państwo"
+    TMS_ADJ:0 "Turkmenistani"
+
+ ###TUSCANY
+
+   #COMMUNISM
+
+    TUS_communism:0 "Tuscan Socjalistyczna Republika"
+    TUS_communism_DEF:0 "Tuscan Socjalistyczna Republika"
+    TUS_communism_ADJ:0 "Tuscan"
+
+   #DEMOCRATIC
+
+    TUS_democratic:0 "Tuscan Republika"
+    TUS_democratic_DEF:0 "Tuscan Republika"
+    TUS_democratic_ADJ:0 "Tuscan"
+
+   #FASCISM
+
+    TUS_fascism:0 "Tuscan Państwo"
+    TUS_fascism_DEF:0 "Tuscan Państwo"
+    TUS_fascism_ADJ:0 "Tuscan"
+
+   #NEUTRALITY
+
+    TUS_neutrality:0 "Grand Duchy Tuscany"
+    TUS_neutrality_DEF:0 "Grand Duchy Tuscany"
+    TUS_neutrality_ADJ:0 "Tuscan"
+
+   #TAG
+
+    TUS:0 "Tuscany"
+    TUS_DEF:0 "Tuscan Państwo"
+    TUS_ADJ:0 "Tuscan"
+
+ ###UDMURTIA
+
+   #COMMUNISM
+
+    UDM_communism:0 "Udmurt Socjalistyczna Republika"
+    UDM_communism_DEF:0 "Udmurt Socjalistyczna Republika"
+    UDM_communism_ADJ:0 "Udmurt"
+
+   #DEMOCRATIC
+
+    UDM_democratic:0 "Udmurt Republika"
+    UDM_democratic_DEF:0 "Udmurt Republika"
+    UDM_democratic_ADJ:0 "Udmurt"
+
+   #FASCISM
+
+    UDM_fascism:0 "Udmurt Państwo"
+    UDM_fascism_DEF:0 "Udmurt Państwo"
+    UDM_fascism_ADJ:0 "Udmurt"
+
+   #NEUTRALITY
+
+    UDM_neutrality:0 "Udmurt Republika"
+    UDM_neutrality_DEF:0 "Udmurt Republika"
+    UDM_neutrality_ADJ:0 "Udmurt"
+
+   #TAG
+
+    UDM:0 "Udmurtia"
+    UDM_DEF:0 "Udmurt Państwo"
+    UDM_ADJ:0 "Udmurt"
+
+ ###Ukraina
+
+   #COMMUNISM
+
+    UKR_communism:0 "Ukraińska Socjalistyczna Republika"
+    UKR_communism_DEF:0 "Ukraińska Socjalistyczna Republika"
+    UKR_communism_ADJ:0 "Ukraińska"
+
+   #DEMOCRATIC
+
+    UKR_democratic:0 "Ukraińska Ludowa Republika"
+    UKR_democratic_DEF:0 "Ukraińska Ludowa Republika"
+    UKR_democratic_ADJ:0 "Ukraińska"
+
+   #FASCISM
+
+    UKR_fascism:0 "Ukraińska Nacjonalistyczna Państwo"
+    UKR_fascism_DEF:0 "Ukraińska Nacjonalistyczna Państwo"
+    UKR_fascism_ADJ:0 "Ukraińska"
+
+   #NEUTRALITY
+
+    UKR_neutrality:0 "Ukraińska Państwo"
+    UKR_neutrality_DEF:0 "Ukraińska Państwo"
+    UKR_neutrality_ADJ:0 "Ukraińska"
+
+   #TAG
+
+    UKR:0 "Ukraina"
+    UKR_DEF:0 "Ukraińskie Państwo"
+    UKR_ADJ:0 "Ukraińska"
+
+ ###UZBEKISTAN
+
+   #COMMUNISM
+
+    UZB_communism:0 "Uzbek Socjalistyczna Republika"
+    UZB_communism_DEF:0 "Uzbek Socjalistyczna Republika"
+    UZB_communism_ADJ:0 "Uzbek"
+
+   #DEMOCRATIC
+
+    UZB_democratic:0 "Republika Uzbekistan"
+    UZB_democratic_DEF:0 "Republika Uzbekistan"
+    UZB_democratic_ADJ:0 "Uzbek"
+
+   #FASCISM
+
+    UZB_fascism:0 "Uzbek Nacjonalistyczna Unitary Państwo"
+    UZB_fascism_DEF:0 "Uzbek Nacjonalistyczna Unitary Państwo"
+    UZB_fascism_ADJ:0 "Uzbek"
+
+   #NEUTRALITY
+
+    UZB_neutrality:0 "Republika Uzbekistan"
+    UZB_neutrality_DEF:0 "Republika Uzbekistan"
+    UZB_neutrality_ADJ:0 "Uzbek"
+
+   #TAG
+
+    UZB:0 "Uzbekistan"
+    UZB_DEF:0 "Uzbek Państwo"
+    UZB_ADJ:0 "Uzbek"
+
+ ###VOJVODINA
+
+   #COMMUNISM
+
+    VJV_communism:0 "Ludowa Republika Vojvodina"
+    VJV_communism_DEF:0 "Ludowa Republika Vojvodina"
+    VJV_communism_ADJ:0 "Vojvodinan"
+
+   #DEMOCRATIC
+
+    VJV_democratic:0 "Republika Vojvodina"
+    VJV_democratic_DEF:0 "Republika Vojvodina"
+    VJV_democratic_ADJ:0 "Vojvodinan"
+
+   #FASCISM
+
+    VJV_fascism:0 "Państwo Vojvodina"
+    VJV_fascism_DEF:0 "Państwo Vojvodina"
+    VJV_fascism_ADJ:0 "Vojvodinan"
+
+   #NEUTRALITY
+
+    VJV_neutrality:0 "Państwo Vojvodina"
+    VJV_neutrality_DEF:0 "Państwo Vojvodina"
+    VJV_neutrality_ADJ:0 "Vojvodinan"
+
+   #TAG
+
+    VJV:0 "Vojvodina"
+    VJV_DEF:0 "Vojvodinan Państwo"
+    VJV_ADJ:0 "Vojvodinan"
+
+ ###Wołga Niemcy
+
+   #COMMUNISM
+
+    VGE_communism:0 "Wołga Niemiecka Robotnicza Komuna"
+    VGE_communism_DEF:0 "Wołga Niemiecka Robotnicza Komuna"
+    VGE_communism_ADJ:0 "Wołga Niemiecka"
+
+   #DEMOCRATIC
+
+    VGE_democratic:0 "Wołga Niemiecka Republika"
+    VGE_democratic_DEF:0 "Wołga Niemiecka Republika"
+    VGE_democratic_ADJ:0 "Wołga Niemiecka"
+
+   #FASCISM
+
+    VGE_fascism:0 "Wołga Niemiecka Reich"
+    VGE_fascism_DEF:0 "Wołga Niemiecka Reich"
+    VGE_fascism_ADJ:0 "Wołga Niemiecka"
+
+   #NEUTRALITY
+
+    VGE_neutrality:0 "Państwo Wołga Niemcy"
+    VGE_neutrality_DEF:0 "Państwo Wołga Niemcy"
+    VGE_neutrality_ADJ:0 "Wołga Niemiecka"
+
+   #TAG
+
+    VGE:0 "Wołga Niemcy"
+    VGE_DEF:0 "Wołga Niemiecka Państwo"
+    VGE_ADJ:0 "Wołga Niemiecka"
+
+ ###WALES
+
+   #COMMUNISM
+
+    WLS_communism:0 "Socjalistyczna Republika Wales"
+    WLS_communism_DEF:0 "Socjalistyczna Republika Wales"
+    WLS_communism_ADJ:0 "Welsh"
+
+   #DEMOCRATIC
+
+    WLS_democratic:0 "Republika Wales"
+    WLS_democratic_DEF:0 "Republika Wales"
+    WLS_democratic_ADJ:0 "Welsh"
+
+   #FASCISM
+
+    WLS_fascism:0 "Welsh Union"
+    WLS_fascism_DEF:0 "Welsh Union"
+    WLS_fascism_ADJ:0 "Welsh"
+
+   #NEUTRALITY
+
+    WLS_neutrality:0 "Principality Wales"
+    WLS_neutrality_DEF:0 "Principality Wales"
+    WLS_neutrality_ADJ:0 "Welsh"
+
+   #TAG
+
+    WLS:0 "Wales"
+    WLS_DEF:0 "Welsh Państwo"
+    WLS_ADJ:0 "Welsh"
+
+ ###WESTERN SAHARA
+
+   #COMMUNISM
+
+    WES_communism:0 "Sahrawi Demokratyczna Republika"
+    WES_communism_DEF:0 "Sahrawi Demokratyczna Republika"
+    WES_communism_ADJ:0 "Sahrawi"
+
+   #DEMOCRATIC
+
+    WES_democratic:0 "Sahrawi Republika"
+    WES_democratic_DEF:0 "Sahrawi Republika"
+    WES_democratic_ADJ:0 "Sahrawi"
+
+   #FASCISM
+
+    WES_fascism:0 "Sahrawi Republika"
+    WES_fascism_DEF:0 "Sahrawi Republika"
+    WES_fascism_ADJ:0 "Sahrawi"
+
+   #NEUTRALITY
+
+    WES_neutrality:0 "Sahrawi Republika"
+    WES_neutrality_DEF:0 "Sahrawi Republika"
+    WES_neutrality_ADJ:0 "Sahrawi"
+
+   #TAG
+
+    WES:0 "Western Sahara"
+    WES_DEF:0 "Sahrawi Państwo"
+    WES_ADJ:0 "Sahrawi"
+
+ ###WÜRTTEMBERG
+
+   #COMMUNISM
+
+    WUR_communism:0 "Württembergian Radna Republika"
+    WUR_communism_DEF:0 "Württembergian Radna Republika"
+    WUR_communism_ADJ:0 "Württembergian"
+
+   #DEMOCRATIC
+
+    WUR_democratic:0 "Wolne Ludowa Państwo Württemberg"
+    WUR_democratic_DEF:0 "Wolne Ludowa Państwo Württemberg"
+    WUR_democratic_ADJ:0 "Württembergian"
+
+   #FASCISM
+
+    WUR_fascism:0 "Württembergian Państwo"
+    WUR_fascism_DEF:0 "Württembergian Państwo"
+    WUR_fascism_ADJ:0 "Württembergian"
+
+   #NEUTRALITY
+
+    WUR_neutrality:0 "Królestwo Württemberg"
+    WUR_neutrality_DEF:0 "Królestwo Württemberg"
+    WUR_neutrality_ADJ:0 "Württembergian"
+
+   #TAG
+
+    WUR:0 "Württemberg"
+    WUR_DEF:0 "Württembergian Państwo"
+    WUR_ADJ:0 "Wuerttembergian"
+
+ ###YUGOSLAVIA
+
+   #COMMUNISM
+
+    YUG_communism:0 "Demokratyczna Federalne Republika Yugoslavia"
+    YUG_communism_DEF:0 "Demokratyczna Federalne Republika Yugoslavia"
+    YUG_communism_ADJ:0 "Yugoslavian"
+
+   #DEMOCRATIC
+
+    YUG_democratic:0 "Królestwo Yugoslavia"
+    YUG_democratic_DEF:0 "Królestwo Yugoslavia"
+    YUG_democratic_ADJ:0 "Yugoslavian"
+
+   #FASCISM
+
+    YUG_fascism:0 "Królestwo Yugoslavia"
+    YUG_fascism_DEF:0 "Królestwo Yugoslavia"
+    YUG_fascism_ADJ:0 "Yugoslavian"
+
+   #NEUTRALITY
+
+    YUG_neutrality:0 "Królestwo Yugoslavia"
+    YUG_neutrality_DEF:0 "Królestwo Yugoslavia"
+    YUG_neutrality_ADJ:0 "Yugoslavian"
+
+   #TAG
+
+    YUG:0 "Yugoslavia"
+    YUG_DEF:0 "Yugoslavian Państwo"
+    YUG_ADJ:0 "Yugoslavian"
