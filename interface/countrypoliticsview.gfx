@@ -496,7 +496,82 @@ spriteTypes = {
 		name = "GFX_ideology_nazism_group"
 		texturefile = "gfx/interface/ideologies/nazism.dds"
 	}
-	
+	spriteType = {
+		name = "GFX_ideology_conservatism_group"
+		texturefile = "gfx/interface/ideologies/conservatism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_national_conservatism_group"
+		texturefile = "gfx/interface/ideologies/national_conservatism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_monarchism_group"
+		texturefile = "gfx/interface/ideologies/monarchism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_national_liberalism_group"
+		texturefile = "gfx/interface/ideologies/national_liberalism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_nationalism_group"
+		texturefile = "gfx/interface/ideologies/nationalism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_socialliberalism_group"
+		texturefile = "gfx/interface/ideologies/socialliberalism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_anarchocommunism_group"
+		texturefile = "gfx/interface/ideologies/anarchocommunism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_anarchosyndycalism_group"
+		texturefile = "gfx/interface/ideologies/anarchosyndycalism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_socdem_group"
+		texturefile = "gfx/interface/ideologies/socdem.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_demsoc_group"
+		texturefile = "gfx/interface/ideologies/demsoc.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_anarchoprimitivism_group"
+		texturefile = "gfx/interface/ideologies/anarchoprimitivism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_progressivism_group"
+		texturefile = "gfx/interface/ideologies/progressivism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_liberalism_group"
+		texturefile = "gfx/interface/ideologies/liberalism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_libertarianism_group"
+		texturefile = "gfx/interface/ideologies/libertarianism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_anarchocapitalism_group"
+		texturefile = "gfx/interface/ideologies/anarchocapitalism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_korwinizm_group"
+		texturefile = "gfx/interface/ideologies/korwinizm.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_neoliberalism_group"
+		texturefile = "gfx/interface/ideologies/neoliberalism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_minarchism_group"
+		texturefile = "gfx/interface/ideologies/minarchism.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_market_liberalism_group"
+		texturefile = "gfx/interface/ideologies/market_liberalism.dds"
+	}
 	spriteType = {
 		name = "GFX_ideology_unknown"
 		texturefile = "gfx/interface/ideologies/unknown.dds"
