@@ -497,7 +497,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/nazism.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_conservatism_group"
+		name = "GFX_ideology_democratic_group"
 		texturefile = "gfx/interface/ideologies/conservatism.dds"
 	}
 	spriteType = {
@@ -513,7 +513,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/national_liberalism.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_nationalism_group"
+		name = "GFX_ideology_neutrality_group"
 		texturefile = "gfx/interface/ideologies/nationalism.dds"
 	}
 	spriteType = {
