@@ -34,6 +34,26 @@ spriteTypes = {
 		name = "GFX_news_event_walesa_salut"
 		texturefile = "gfx/event_pictures/walesa_salut.dds"
 	}
+	
+	spriteType = {
+		name = "GFX_news_event_morawiecki_przemawia"
+		texturefile = "gfx/event_pictures/morawiecki_przemawia.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_news_event_trzaskowski_stoi_i_sie_cieszy"
+		texturefile = "gfx/event_pictures/trzaskowski_stoi_i_sie_cieszy.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_news_event_dumny_duda"
+		texturefile = "gfx/event_pictures/dumny_duda.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_news_event_kaczor_kandydatem"
+		texturefile = "gfx/event_pictures/kaczor_kandydatem.dds"
+	}
 }
 
 
