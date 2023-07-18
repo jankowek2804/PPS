@@ -234,3 +234,276 @@ country_event = {
 		name = "Jak za starych lat"
 	}
 }
+
+country_event = {
+	id = poparcie.19
+	title = "Staśko organizuje kolejny marsz kobiet"
+	desc = poparcie.19.d
+	picture = GFX_news_event_marsz_kobiet
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Znowu?"
+	}
+}
+
+country_event = {
+	id = poparcie.20
+	title = "ANTIFA przejmuje Kłodzko"
+	desc = poparcie.20.d
+	picture = GFX_news_event_antifa_maszeruje
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Zebrać lojalne wojsko i wysłać do Mazowieckiego"
+	}
+}
+
+country_event = {
+	id = poparcie.21
+	title = "Anarcho-kapitaliści przejmują Gdańsk"
+	desc = poparcie.21.d
+	picture = GFX_news_event_akap_flaga
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Brakuje tylko Rosji..."
+	}
+}
+
+country_event = {
+	id = poparcie.22
+	title = "Wojciech Olszański rozpoczyna bunt na Mazurach"
+	desc = poparcie.22.d
+	picture = GFX_news_event_jaszczur_przemawia
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "No i wykrakałem"
+	}
+}
+
+country_event = {
+	id = poparcie.23
+	title = "Wojsko domaga się tymczasowego przejęcia władzy"
+	desc = poparcie.23.d
+	picture = GFX_news_event_wojsko_polskie
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Nie ma szans, niech walczą nie gadają!"
+	}
+}
+
+country_event = {
+	id = poparcie.24
+	title = "Śląsk ogłasza niepodległość"
+	desc = poparcie.24.d
+	picture = GFX_news_event_slazacy_maszeruja
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Kraj jest w rozsypce"
+	}
+}
+
+country_event = {
+	id = poparcie.25
+	title = "Wojna domowa w Polsce"
+	desc = poparcie.25.d
+	picture = GFX_news_event_chlop_z_bronia
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Jarosław Kaczyński"
+	}
+	option = {
+		name = "Andrzej Duda"
+	}
+	option = {
+		name = "Mateusz Morawiecki"
+	}
+	option = {
+		name = "Następna strona listy"
+	}
+}
+
+country_event = {
+	id = poparcie.26
+	title = "Wojna domowa w Polsce"
+	desc = poparcie.25.d
+	picture = GFX_news_event_chlop_z_bronia
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Zbigniew Ziobro"
+	}
+	option = {
+		name = "Krzysztof Kononowicz"
+	}
+	option = {
+		name = "Rafał Trzaskowski"
+	}
+	option = {
+		name = "Następna strona listy"
+	}
+}
+
+country_event = {
+	id = poparcie.27
+	title = "Wojna domowa w Polsce"
+	desc = poparcie.25.d
+	picture = GFX_news_event_chlop_z_bronia
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Władysław Kosiniak-Kamysz i PSL"
+	}
+	option = {
+		name = "Krzysztof Szwej i KPP"
+	}
+	option = {
+		name = "Sławomir Mentzen i Konfederacja"
+	}
+	option = {
+		name = "Następna strona listy"
+	}
+}
+
+country_event = {
+	id = poparcie.28
+	title = "Wojna domowa w Polsce"
+	desc = poparcie.25.d
+	picture = GFX_news_event_chlop_z_bronia
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Leszek Wierzchowski i RPM"
+	}
+	option = {
+		name = "Jerzy Gorzelik i wolny Śląsk"
+	}
+	option = {
+		name = "Lech Wałęsa"
+	}
+	option = {
+		name = "Następna strona listy"
+	}
+}
+
+country_event = {
+	id = poparcie.29
+	title = "Wojna domowa w Polsce"
+	desc = poparcie.25.d
+	picture = GFX_news_event_chlop_z_bronia
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Król Sanjaya z Lechii"
+	}
+	option = {
+		name = "Zbigniew Stonoga"
+	}
+	option = {
+		name = "ANTIFA"
+	}
+	option = {
+		name = "Następna strona listy"
+	}
+}
+
+country_event = {
+	id = poparcie.30
+	title = "Wojna domowa w Polsce"
+	desc = poparcie.25.d
+	picture = GFX_news_event_chlop_z_bronia
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Szymon Hołownia i P.2050"
+	}
+	option = {
+		name = "Paweł Kukiz i Kukiz.15"
+	}
+	option = {
+		name = "Maja Staśko"
+	}
+	option = {
+		name = "Następna strona listy"
+	}
+}
+
+country_event = {
+	id = poparcie.31
+	title = "Wojna domowa w Polsce"
+	desc = poparcie.25.d
+	picture = GFX_news_event_chlop_z_bronia
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Aleksander Kwaśniewski i SLD"
+	}
+	option = {
+		name = "Robert Biedroń i Wiosna-Razem"
+	}
+	option = {
+		name = "Adrnian Zandberg"
+	}
+	option = {
+		name = "Następna strona listy"
+	}
+}
+
+country_event = {
+	id = poparcie.32
+	title = "Wojna domowa w Polsce"
+	desc = poparcie.25.d
+	picture = GFX_news_event_chlop_z_bronia
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Donald Tusk i PO"
+	}
+	option = {
+		name = "Anarcho-kapitaliści"
+	}
+	option = {
+		name = "Junta Wojskowa"
+	}
+	option = {
+		name = "Następna strona listy"
+	}
+}
+
+country_event = {
+	id = poparcie.33
+	title = "Wojna domowa w Polsce"
+	desc = poparcie.25.d
+	picture = GFX_news_event_chlop_z_bronia
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Ksiądz Tadeusz Rydzyk"
+	}
+	option = {
+		name = "Wojciech Jabłonowski"
+	}
+	option = {
+		name = "Pierwsza strona listy"
+	}
+}
