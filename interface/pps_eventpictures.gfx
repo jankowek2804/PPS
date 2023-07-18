@@ -84,5 +84,40 @@ spriteTypes = {
 		name = "GFX_news_event_kukiz_przemawia"
 		texturefile = "gfx/event_pictures/kukiz_przemawia.dds"
 	}
+	
+	spriteType = {
+		name = "GFX_news_event_marsz_kobiet"
+		texturefile = "gfx/event_pictures/marsz_kobiet.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_news_event_antifa_maszeruje"
+		texturefile = "gfx/event_pictures/antifa_maszeruje.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_news_event_akap_flaga"
+		texturefile = "gfx/event_pictures/akap_flaga.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_news_event_jaszczur_przemawia"
+		texturefile = "gfx/event_pictures/jaszczur_przemawia.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_news_event_wojsko_polskie"
+		texturefile = "gfx/event_pictures/wojsko_polskie.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_news_event_slazacy_maszeruja"
+		texturefile = "gfx/event_pictures/slazacy_maszeruja.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_news_event_chlop_z_bronia"
+		texturefile = "gfx/event_pictures/chlop_z_bronia.dds"
+	}
 }
 
