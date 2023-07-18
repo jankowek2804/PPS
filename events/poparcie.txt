@@ -157,3 +157,80 @@ country_event = {
 	}
 }
 
+country_event = {
+	id = poparcie.13
+	title = "PSL jednoczy rolników ze wschodu"
+	desc = poparcie.13.d
+	picture = GFX_news_event_kosiniak_kamysz_przed_flagami
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Czekaj, a gdzie Hołownia?"
+	}
+}
+
+country_event = {
+	id = poparcie.14
+	title = "Hołownia odcina się od PSL"
+	desc = poparcie.14.d
+	picture = GFX_news_event_holownia_agresor
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Żebyś się nie popłakał"
+	}
+}
+
+country_event = {
+	id = poparcie.15
+	title = "PSL traci poparcie na rzecz radykalnych komunistów"
+	desc = poparcie.15.d
+	picture = GFX_news_event_komuchy_sie_jednocza
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "I do tego doprowadza radykalizm"
+	}
+}
+
+country_event = {
+	id = poparcie.16
+	title = "Ksiądz Rydzyk rozpoczyna krucjatę przeciwko komunistom"
+	desc = poparcie.16.d
+	picture = GFX_news_event_rydzyk_przemawia
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Deus, honorat, patriam"
+	}
+}
+
+country_event = {
+	id = poparcie.17
+	title = "Lewica oburzona postawą Rydzyka"
+	desc = poparcie.17.d
+	picture = GFX_news_event_biedron_przemawia
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "To zaraz jebnie!"
+	}
+}
+
+country_event = {
+	id = poparcie.18
+	title = "Paweł Kukiz ponownie zdobywa poparcie"
+	desc = poparcie.18.d
+	picture = GFX_news_event_kukiz_przemawia
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Jak za starych lat"
+	}
+}
