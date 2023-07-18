@@ -54,8 +54,35 @@ spriteTypes = {
 		name = "GFX_news_event_kaczor_kandydatem"
 		texturefile = "gfx/event_pictures/kaczor_kandydatem.dds"
 	}
+	
+	spriteType = {
+		name = "GFX_news_event_kosiniak_kamysz_przed_flagami"
+		texturefile = "gfx/event_pictures/kosiniak_kamysz_przed_flagami.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_news_event_holownia_agresor"
+		texturefile = "gfx/event_pictures/holownia_agresor.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_news_event_komuchy_sie_jednocza"
+		texturefile = "gfx/event_pictures/komuchy_sie_jednocza.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_news_event_rydzyk_przemawia"
+		texturefile = "gfx/event_pictures/rydzyk_przemawia.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_news_event_biedron_przemawia"
+		texturefile = "gfx/event_pictures/biedron_przemawia.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_news_event_kukiz_przemawia"
+		texturefile = "gfx/event_pictures/kukiz_przemawia.dds"
+	}
 }
-
-
-
 
