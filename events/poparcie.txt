@@ -91,3 +91,69 @@ country_event = {
 		name = "Poważnie tylko tyle wystarczyło?"
 	}
 }
+
+country_event = {
+	id = poparcie.8
+	title = "Morawiecki odcina się od powiązań z PiSem"
+	desc = poparcie.8.d
+	picture = GFX_news_event_morawiecki_przemawia
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Kolejny odchodzi"
+	}
+}
+
+country_event = {
+	id = poparcie.9
+	title = "Trzaskowski ponownie prezydentem Warszawy"
+	desc = poparcie.9.d
+	picture = GFX_news_event_trzaskowski_stoi_i_sie_cieszy
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Czyli jednak nie jest to bastion PiSu"
+	}
+}
+
+country_event = {
+	id = poparcie.10
+	title = "Monarchiści z całej Polski spotkali się w Olkuszu"
+	desc = poparcie.10.d
+	picture = GFX_news_event_trzaskowski_stoi_i_sie_cieszy
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Poparcie rośnie jak skala kazirodztwa u Habsburgów"
+	}
+}
+
+country_event = {
+	id = poparcie.11
+	title = "Duda blokuje dalszą ekspansje Trzaskowskiego"
+	desc = poparcie.11.d
+	picture = GFX_news_event_dumny_duda
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Panie prezesie to już czas..."
+	}
+}
+
+country_event = {
+	id = poparcie.12
+	title = "Kaczyński ogłasza, że będzie kandydował na prezydenta"
+	desc = poparcie.12.d
+	picture = GFX_news_event_kaczor_kandydatem
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "Teraz albo nigdy!"
+	}
+}
+
