@@ -124,8 +124,8 @@
 
    #TAG
 
-    USA:0 "Ameryka"
-    USA_DEF:0 "Amerykańskie Stany"
+    USA:0 "Stany Zjednoczone Ameryki"
+    USA_DEF:0 "Stany Zjednoczone Ameryki"
     USA_ADJ:0 "Amerykańskie"
 
   ##CONFEDERACY
@@ -460,7 +460,7 @@
 
     ENG_democratic:0 "Zjednoczone Królestwo"
     ENG_democratic_DEF:0 "Zjednoczone Królestwo"
-    ENG_democratic_ADJ:0 "British"
+    ENG_democratic_ADJ:0 "Brytyjska"
 
    #FASCISM
 
@@ -1148,8 +1148,8 @@
 
    #TAG
 
-    FRA:0 "France"
-    FRA_DEF:0 "Francuska Państwo"
+    FRA:0 "Republika Francuska"
+    FRA_DEF:0 "Republika Francuska"
     FRA_ADJ:0 "Francuska"
 
  ###GALICIA
@@ -1244,8 +1244,8 @@
 
    #TAG
 
-    GER:0 "Niemcy"
-    GER_DEF:0 "Niemiecka Państwo"
+    GER:0 "Republika Federalna Niemiec"
+    GER_DEF:0 "Republika Federalna Niemiec"
     GER_ADJ:0 "Niemiecka"
 
   ##EAST Niemcy
@@ -1628,9 +1628,9 @@
 
    #TAG
 
-    ITA:0 "Italy"
-    ITA_DEF:0 "Italian Państwo"
-    ITA_ADJ:0 "Italian"
+    ITA:0 "Republika Włoska"
+    ITA_DEF:0 "Republika Włoska"
+    ITA_ADJ:0 "Włoska"
 
   ##NORTH ITALY
 
@@ -3210,9 +3210,9 @@
 
    #DEMOCRATIC
 
-    SOV_democratic:0 "Russian Demokratyczna Federative Republika"
-    SOV_democratic_DEF:0 "Russian Demokratyczna Federative Republika"
-    SOV_democratic_ADJ:0 "Russian"
+    SOV_democratic:0 "Federacja Rosyjska"
+    SOV_democratic_DEF:0 "Federacja Rosyjska"
+    SOV_democratic_ADJ:0 "Rosyjska"
 
    #FASCISM
 

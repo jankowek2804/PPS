@@ -18,7 +18,40 @@
  ITA_liberalism_party:0 "A-IV-RE"
  ITA_demsoc_party:0 "AVS"
 
- ###
+ ###FRANCE
+
+ FRA_liberalism_party:0 "RE + DEM"
+ FRA_democratic_party:0 "HOR"
+ FRA_neutrality_party:0 "RN"
+ FRA_demsoc_party:0 "LFI"
+ FRA_nationalliberalism_party:0 "LR"
+ FRA_socdem_party:0 "SOC"
+ FRA_progressivism_party:0 "ECO"
+ FRA_communism_party:0 "GDR"
+ FRA_socialliberalism_party:0 "LIOT"
+
+ ###UK
+
+ ENG_democratic_party:0 "Conservative Party"
+ ENG_socdem_party:0 "Labour Party"
+ ENG_neutrality_party:0 "SNP + Alba Party"
+ ENG_socialliberalism_party:0 "Liberal Democrats"
+ ENG_nationalconservatism_party:0 "DUP"
+ ENG_demsoc_party:0 "Plaid Cymru"
+ ENG_liberalism_party:0 "Alliance Party"
+
+ ###ruSSia
+
+ SOV_democratic_party:0 "United Russia"
+ SOV_communism_party:0 "Communist Party"
+ SOV_socdem_party:0 "SRZP"
+ SOV_neoliberalism_party:0 "LDRP"
+ SOV_liberalism_party:0 "New People"
+
+ ###USA
+
+ USA_democratic_party:0 "Republican Party"
+ USA_liberalism_party:0 "Democratic Party"
 
  communism:0 "Marksizm-Leninizm"
  communism_noun:0 "Marksizm-Leninizm"
