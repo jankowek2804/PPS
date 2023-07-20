@@ -349,7 +349,7 @@
    #TAG
 
     NAV:0 "Baskijskie Państwo"
-    NAV_DEF:0 "Baskijska Państwo"
+    NAV_DEF:0 "Baskijske Państwo"
     NAV_ADJ:0 "Baskijska"
 
  ###BAVARIA
@@ -496,8 +496,8 @@
 
    #FASCISM
 
-    BRI_fascism:0 "Breton Nacjonalistyczna Państwo"
-    BRI_fascism_DEF:0 "Breton Nacjonalistyczna Państwo"
+    BRI_fascism:0 "Breton Nacjonalistyczne Państwo"
+    BRI_fascism_DEF:0 "Breton Nacjonalistyczne Państwo"
     BRI_fascism_ADJ:0 "Breton"
 
    #NEUTRALITY
@@ -528,8 +528,8 @@
 
    #FASCISM
 
-    BUL_fascism:0 "Bulgarian Nacjonalistyczna Państwo"
-    BUL_fascism_DEF:0 "Bulgarian Nacjonalistyczna Państwo"
+    BUL_fascism:0 "Bulgarian Nacjonalistyczne Państwo"
+    BUL_fascism_DEF:0 "Bulgarian Nacjonalistyczne Państwo"
     BUL_fascism_ADJ:0 "Bulgarian"
 
    #NEUTRALITY
@@ -560,8 +560,8 @@
 
    #FASCISM
 
-    BLR_fascism:0 "Białoruska Państwo"
-    BLR_fascism_DEF:0 "Białoruska Państwo"
+    BLR_fascism:0 "Białoruske Państwo"
+    BLR_fascism_DEF:0 "Białoruske Państwo"
     BLR_fascism_ADJ:0 "Białoruska"
 
    #NEUTRALITY
@@ -1136,8 +1136,8 @@
 
    #FASCISM
 
-    FRA_fascism:0 "Francuska Państwo"
-    FRA_fascism_DEF:0 "Francuska Państwo"
+    FRA_fascism:0 "Francuske Państwo"
+    FRA_fascism_DEF:0 "Francuske Państwo"
     FRA_fascism_ADJ:0 "Francuska"
 
    #NEUTRALITY
@@ -1156,8 +1156,8 @@
 
    #COMMUNISM
 
-    GLC_communism:0 "Galician Socjalistyczna Państwo"
-    GLC_communism_DEF:0 "Galician Socjalistyczna Państwo"
+    GLC_communism:0 "Galician Socjalistyczne Państwo"
+    GLC_communism_DEF:0 "Galician Socjalistyczne Państwo"
     GLC_communism_ADJ:0 "Galician"
 
    #DEMOCRATIC
@@ -1277,7 +1277,7 @@
     #TAG
 
      DDR:0 "East Niemcy"
-     DDR_DEF:0 "East Niemiecka Państwo"
+     DDR_DEF:0 "East Niemiecke Państwo"
      DDR_ADJ:0 "East Niemiecka"
 
   ##WEST Niemcy
@@ -1296,8 +1296,8 @@
 
    #FASCISM
 
-    WGR_fascism:0 "Niemiecka Państwo"
-    WGR_fascism_DEF:0 "Niemiecka Państwo"
+    WGR_fascism:0 "Niemiecke Państwo"
+    WGR_fascism_DEF:0 "Niemiecke Państwo"
     WGR_fascism_ADJ:0 "Niemiecka"
 
    #NEUTRALITY
@@ -1309,7 +1309,7 @@
    #TAG
 
     WGR:0 "West Niemcy"
-    WGR_DEF:0 "West Niemiecka Państwo"
+    WGR_DEF:0 "West Niemiecke Państwo"
     WGR_ADJ:0 "West Niemiecka"
 
  ###GREECE
@@ -1469,7 +1469,7 @@
    #TAG
 
     ICE:0 "Islandii"
-    ICE_DEF:0 "Islandzka Państwo"
+    ICE_DEF:0 "Islandzke Państwo"
     ICE_ADJ:0 "Islandzka"
 
  ###IRAN
@@ -1572,8 +1572,8 @@
 
    #COMMUNISM
 
-    ISR_communism:0 "Socjalistyczna Państwo Israel"
-    ISR_communism_DEF:0 "Socjalistyczna Państwo Israel"
+    ISR_communism:0 "Socjalistyczne Państwo Israel"
+    ISR_communism_DEF:0 "Socjalistyczne Państwo Israel"
     ISR_communism_ADJ:0 "Israeli"
 
    #DEMOCRATIC
@@ -1680,8 +1680,8 @@
 
    #FASCISM
 
-    RDS_fascism:0 "Italian Nacjonalistyczna Państwo"
-    RDS_fascism_DEF:0 "Italian Nacjonalistyczna Państwo"
+    RDS_fascism:0 "Italian Nacjonalistyczne Państwo"
+    RDS_fascism_DEF:0 "Italian Nacjonalistyczne Państwo"
     RDS_fascism_ADJ:0 "Italian"
 
    #NEUTRALITY
@@ -1764,8 +1764,8 @@
 
    #COMMUNISM
 
-    KAL_communism:0 "Socjalistyczna Państwo Kalmykia"
-    KAL_communism_DEF:0 "Socjalistyczna Państwo Kalmykia"
+    KAL_communism:0 "Socjalistyczne Państwo Kalmykia"
+    KAL_communism_DEF:0 "Socjalistyczne Państwo Kalmykia"
     KAL_communism_ADJ:0 "Kalmyk"
 
    #DEMOCRATIC
@@ -1808,8 +1808,8 @@
 
    #FASCISM
 
-    KKP_fascism:0 "Karakalpak Nacjonalistyczna Państwo"
-    KKP_fascism_DEF:0 "Karakalpak Nacjonalistyczna Państwo"
+    KKP_fascism:0 "Karakalpak Nacjonalistyczne Państwo"
+    KKP_fascism_DEF:0 "Karakalpak Nacjonalistyczne Państwo"
     KKP_fascism_ADJ:0 "Karakalpak"
 
    #NEUTRALITY
@@ -1904,8 +1904,8 @@
 
    #FASCISM
 
-    KAZ_fascism:0 "Nacjonalistyczna Państwo Turkestan"
-    KAZ_fascism_DEF:0 "Nacjonalistyczna Państwo Turkestan"
+    KAZ_fascism:0 "Nacjonalistyczne Państwo Turkestan"
+    KAZ_fascism_DEF:0 "Nacjonalistyczne Państwo Turkestan"
     KAZ_fascism_ADJ:0 "Turkestani"
 
    #NEUTRALITY
@@ -2128,8 +2128,8 @@
 
    #FASCISM
 
-    LAT_fascism:0 "Łotewska Państwo"
-    LAT_fascism_DEF:0 "Łotewska Państwo"
+    LAT_fascism:0 "Łotewske Państwo"
+    LAT_fascism_DEF:0 "Łotewske Państwo"
     LAT_fascism_ADJ:0 "Łotewska"
 
    #NEUTRALITY
@@ -2141,7 +2141,7 @@
    #TAG
 
     LAT:0 "Łotwy"
-    LAT_DEF:0 "Łotewska Państwo"
+    LAT_DEF:0 "Łotewske Państwo"
     LAT_ADJ:0 "Łotewska"
 
  ###LEBANON
@@ -2436,8 +2436,8 @@
 
    #COMMUNISM
 
-    MNT_communism:0 "Ludowa Państwo Montenegro"
-    MNT_communism_DEF:0 "Ludowa Państwo Montenegro"
+    MNT_communism:0 "Ludowe Państwo Montenegro"
+    MNT_communism_DEF:0 "Ludowe Państwo Montenegro"
     MNT_communism_ADJ:0 "Montenegrin"
 
    #DEMOCRATIC
@@ -2640,8 +2640,8 @@
 
    #FASCISM
 
-    NOR_fascism:0 "Nacjonalistyczna Państwo Norwegii"
-    NOR_fascism_DEF:0 "Nacjonalistyczna Państwo Norwegii"
+    NOR_fascism:0 "Nacjonalistyczne Państwo Norwegii"
+    NOR_fascism_DEF:0 "Nacjonalistyczne Państwo Norwegii"
     NOR_fascism_ADJ:0 "Norweska"
 
    #NEUTRALITY
@@ -2813,7 +2813,7 @@
    #TAG
 
     POR:0 "Portugal"
-    POR_DEF:0 "Portugalska Państwo"
+    POR_DEF:0 "Portugalske Państwo"
     POR_ADJ:0 "Portugalska"
 
  ###PRUSSIA
@@ -2941,7 +2941,7 @@
    #TAG
 
     ROM:0 "Rumunia"
-    ROM_DEF:0 "Rumuńska Państwo"
+    ROM_DEF:0 "Rumuńske Państwo"
     ROM_ADJ:0 "Rumuńska"
 
  ###SAUDI ARABIA
@@ -3088,8 +3088,8 @@
 
    #FASCISM
 
-    SER_fascism:0 "Nacjonalistyczna Państwo Serbia"
-    SER_fascism_DEF:0 "Nacjonalistyczna Państwo Serbia"
+    SER_fascism:0 "Nacjonalistyczne Państwo Serbia"
+    SER_fascism_DEF:0 "Nacjonalistyczne Państwo Serbia"
     SER_fascism_ADJ:0 "Serbian"
 
    #NEUTRALITY
@@ -3216,8 +3216,8 @@
 
    #FASCISM
 
-    SOV_fascism:0 "Russian Nacjonalistyczna Państwo"
-    SOV_fascism_DEF:0 "Russian Nacjonalistyczna Państwo"
+    SOV_fascism:0 "Russian Nacjonalistyczne Państwo"
+    SOV_fascism_DEF:0 "Russian Nacjonalistyczne Państwo"
     SOV_fascism_ADJ:0 "Russian"
 
    #NEUTRALITY
@@ -3229,7 +3229,7 @@
    #TAG
 
     SOV:0 "Sowiecka Union"
-    SOV_DEF:0 "Sowiecka Państwo"
+    SOV_DEF:0 "Sowiecke Państwo"
     SOV_ADJ:0 "Sowiecka"
 
  ###SPAIN
@@ -3666,14 +3666,14 @@
 
    #FASCISM
 
-    UKR_fascism:0 "Ukraińska Nacjonalistyczna Państwo"
-    UKR_fascism_DEF:0 "Ukraińska Nacjonalistyczna Państwo"
+    UKR_fascism:0 "Ukraińska Nacjonalistyczne Państwo"
+    UKR_fascism_DEF:0 "Ukraińska Nacjonalistyczne Państwo"
     UKR_fascism_ADJ:0 "Ukraińska"
 
    #NEUTRALITY
 
-    UKR_neutrality:0 "Ukraińska Państwo"
-    UKR_neutrality_DEF:0 "Ukraińska Państwo"
+    UKR_neutrality:0 "Ukraińske Państwo"
+    UKR_neutrality_DEF:0 "Ukraińske Państwo"
     UKR_neutrality_ADJ:0 "Ukraińska"
 
    #TAG
@@ -3775,7 +3775,7 @@
    #TAG
 
     VGE:0 "Wołga Niemcy"
-    VGE_DEF:0 "Wołga Niemiecka Państwo"
+    VGE_DEF:0 "Wołga Niemiecke Państwo"
     VGE_ADJ:0 "Wołga Niemiecka"
 
  ###WALES
@@ -3852,8 +3852,8 @@
 
    #DEMOCRATIC
 
-    WUR_democratic:0 "Wolne Ludowa Państwo Württemberg"
-    WUR_democratic_DEF:0 "Wolne Ludowa Państwo Württemberg"
+    WUR_democratic:0 "Wolne Ludowe Państwo Württemberg"
+    WUR_democratic_DEF:0 "Wolne Ludowe Państwo Württemberg"
     WUR_democratic_ADJ:0 "Württembergian"
 
    #FASCISM
