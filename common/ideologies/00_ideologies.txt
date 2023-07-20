@@ -360,7 +360,7 @@ ideologies = {
 		ai_neutral = yes #
 		ai_ideology_wanted_units_factor = 1.15
 	}
-	national_liberalism = {
+	nationalliberalism = {
 
 		types = {
 			national_liberalism_ideology = {
@@ -460,7 +460,7 @@ ideologies = {
 		ai_ideology_wanted_units_factor = 1.0 # multiplies threat impact on number of desired units by this value, defaults to 1.0. If at war, the larger of this value and NDefines::NAI::WANTED_UNITS_WAR_THREAT_FACTOR will be used instead
 	}
 
-	national_conservatism = {
+	nationalconservatism = {
 
 		types = {
 			national_conservatism_ideology = {
@@ -1098,7 +1098,7 @@ ideologies = {
 		}
 
 	}
-	market_liberalism = {
+	marketliberalism = {
 
 		types = {
 			market_liberalism_ideology = {}

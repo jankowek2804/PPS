@@ -1,4 +1,25 @@
 ﻿l_polish:
+ ###GERMANY
+
+ GER_socdem_party:0 "SPD"
+ GER_socialliberalism_party:0 "Greens"
+ GER_liberalism_party:0 "FDP"
+ GER_democratic_party:0 "CDU/CSU"
+ GER_nationalconservatism_party:0 "AfD"
+ GER_demsoc_party:0 "The Left"
+
+ ###ITALY
+
+ ITA_nationalconservatism_party:0 "Fdl"
+ ITA_democratic_party:0 "Lega"
+ ITA_nationalliberalism_party:0 "FI + NM-MAIE"
+ ITA_socdem_party:0 "PD-IDP"
+ ITA_progressivism_party:0 "M5S"
+ ITA_liberalism_party:0 "A-IV-RE"
+ ITA_demsoc_party:0 "AVS"
+
+ ###
+
  communism:0 "Marksizm-Leninizm"
  communism_noun:0 "Marksizm-Leninizm"
  democratic:0 "Konserwatyzm"
@@ -35,12 +56,12 @@
  nazism:0 "Nazizm"
  nazism_noun:0 "Nazizm"
  nazism_desc:0 "Reżim totalitarny"
- national_conservatism:0 "Narodowy Konserwatyzm"
- national_conservatism_noun:0 "Narodowy Konserwatyzm"
- national_conservatism_desc:0 "???"
- national_liberalism:0 "Narodowy Libralizm"
- national_liberalism_noun:0 "Narodowy Libralizm"
- national_liberalism_desc:0 "Reżim demokratyczny"
+ nationalconservatism:0 "Narodowy Konserwatyzm"
+ nationalconservatism_noun:0 "Narodowy Konserwatyzm"
+ nationalconservatism_desc:0 "???"
+ nationalliberalism:0 "Narodowy Libralizm"
+ nationalliberalism_noun:0 "Narodowy Libralizm"
+ nationalliberalism_desc:0 "Reżim demokratyczny"
  socialliberalism:0 "Socjalliberalizm"
  socialliberalism_noun:0 "Socjalliberalizm"
  socialliberalism_desc:0 "Reżim demokratyczny"
@@ -80,9 +101,9 @@
  minarchism:0 "Minarchizm"
  minarchism_noun:0 "Minarchizm"
  minarchism_desc:0 "Minimalny Rząd"
- market_liberalism:0 "Libralizm Rynkowy"
- market_liberalism_noun:0 "Libralizm Rynkowy"
- market_liberalism_desc:0 "???"
+ marketliberalism:0 "Libralizm Rynkowy"
+ marketliberalism_noun:0 "Libralizm Rynkowy"
+ marketliberalism_desc:0 "???"
  
 ######
  AUS_fascism_party:1 "Vaterländische Front"

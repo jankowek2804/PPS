@@ -501,7 +501,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/conservatism.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_national_conservatism_group"
+		name = "GFX_ideology_nationalconservatism_group"
 		texturefile = "gfx/interface/ideologies/national_conservatism.dds"
 	}
 	spriteType = {
@@ -509,7 +509,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/monarchism.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_national_liberalism_group"
+		name = "GFX_ideology_nationalliberalism_group"
 		texturefile = "gfx/interface/ideologies/national_liberalism.dds"
 	}
 	spriteType = {
@@ -569,7 +569,7 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideologies/minarchism.dds"
 	}
 	spriteType = {
-		name = "GFX_ideology_market_liberalism_group"
+		name = "GFX_ideology_marketliberalism_group"
 		texturefile = "gfx/interface/ideologies/market_liberalism.dds"
 	}
 	spriteType = {
