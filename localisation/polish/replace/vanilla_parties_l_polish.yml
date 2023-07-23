@@ -74,6 +74,32 @@
  LIT_socdem_party:0 "Social Democratic Party of Lithuania"
  LIT_progressivism_party:0 "Labour Party"
 
+###Czechia
+
+ CZE_democratic_party:0 "ODS + KDU-ČSL"
+ CZE_liberalism_party:0 "TOP 09 + STAN"
+ CZE_progressivism_party:0 "Pirates"
+ CZE_socialliberalism_party:0 "ANO"
+ CZE_neutrality_party:0 "SPD"
+
+###Slovakia
+
+ SLO_democratic_party:0 "OL'aNO"
+ SLO_socdem_party:0 "Smer-SSD"
+ SLO_liberalism_party:0 "SASKA"
+ SLO_nationalconservatism_party:0 "SR"
+ SLO_nationalliberalism_party:0 "Democrats"
+ SLO_demsoc_party:0 "Hlas-SD"
+ SLO_nazism_party:0 "L'SNS"
+ SLO_neutrality_party:0 "Republic"
+
+###AUSTRIA
+
+ AUS_democratic_party:0 "ÖVP"
+ AUS_progressivism_party:0 "Greens"
+ AUS_socdem_party:0 "SPÖ"
+ AUS_nationalconservatism_party:0 "FPÖ"
+ AUS_liberalism_party:0 "NEOS"
 
  communism:0 "Marksizm-Leninizm"
  communism_noun:0 "Marksizm-Leninizm"
