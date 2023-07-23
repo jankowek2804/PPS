@@ -72,41 +72,20 @@ if = {
 	}
 }
 
+create_country_leader = {
+	name = "Volodymyr Zelenskyy"
+	ideology = liberalism_ideology
+	picture = "Portrait_Ukraine_Volodymyr_Zelenskyy.dds"
+}
+set_politics = {
+	ruling_party = liberalism
+	last_election = "2019.7.21"
+	election_frequency = 60
+	elections_allowed = yes
+}
 set_popularities = {
+	liberalism = 58
+	nationalliberalism = 12
 	democratic = 20
-	fascism = 30
-	communism = 50
-}
-
-create_country_leader = {
-	name = "Kost Levytsky"
-	desc = ""
-	picture = GFX_portrait_Kost_Levytsky
-	expire = "1953.3.1"
-	ideology = conservatism
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Nikita Sergeyevich Khrushchyov"
-	desc = ""
-	picture = GFX_portrait_Nikita_Sergeyevich_Khrushchyov
-	expire = "1953.3.1"
-	ideology = marxism
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Stepan Bandera"
-	desc = ""
-	picture = GFX_portrait_Stepan_Bandera
-	expire = "1953.3.1"
-	ideology = fascism_ideology
-	traits = {
-		
-	}
+	socdem = 10
 }

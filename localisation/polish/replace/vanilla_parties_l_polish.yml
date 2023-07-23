@@ -53,6 +53,28 @@
  USA_democratic_party:0 "Republican Party"
  USA_liberalism_party:0 "Democratic Party"
 
+###BELARUS
+
+ BLR_neutrality_party:0 "Belaya Rus"
+ BLR_communism_party:0 "Communist Party"
+
+###Ukraine
+
+ UKR_liberalism_party:0 "Servant of the People"
+ UKR_nationalliberalism_party:0 "For the Future + Dovira"
+ UKR_democratic_party:0 "European Solidarity + Batkivshchyna + Holos"
+ UKR_socdem_party:0 "Platform for Life and Peace + Restoration of Ukraine"
+
+###Lithuania
+
+ LIT_nationalliberalism_party:0 "Homeland Union"
+ LIT_liberalism_party:0 "Liberals' Movement"
+ LIT_socialliberalism_party:0 "Freedom Party"
+ LIT_democratic_party:0 "Farmers and Greens Union + Union of Democrats"
+ LIT_socdem_party:0 "Social Democratic Party of Lithuania"
+ LIT_progressivism_party:0 "Labour Party"
+
+
  communism:0 "Marksizm-Leninizm"
  communism_noun:0 "Marksizm-Leninizm"
  democratic:0 "Konserwatyzm"
@@ -116,8 +138,8 @@
  progressivism:0 "Progresywizm"
  progressivism_noun:0 "Progresywizm"
  progressivism_desc:0 "Reżim demokratyczny"
- liberalism:0 "Libralizm"
- liberalism_noun:0 "Libralizm"
+ liberalism:0 "Liberalizm"
+ liberalism_noun:0 "Liberalizm"
  liberalism_desc:0 "Reżim demokratyczny"
  libertarianism:0 "Libertarianizm"
  libertarianism_noun:0 "Libertarianizm"
@@ -137,19 +159,3 @@
  marketliberalism:0 "Libralizm Rynkowy"
  marketliberalism_noun:0 "Libralizm Rynkowy"
  marketliberalism_desc:0 "???"
- 
-######
- AUS_fascism_party:1 "Vaterländische Front"
- AUS_neutrality_party:1 "KTVP"
- AUS_neutrality_party_long:1 "Kaisertreue Volkspartei"
- AUS_neutrality_party_GDVP:1 "GDVP"
- AUS_neutrality_party_long_GDVP:1 "Grossdeutsches Volkspartei"
- AUS_fascism_party_NSDAP:0 "NSDAP"
- AUS_fascism_party_NSDAP_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
- ITA_neutrality_party:0 "Partito Liberale Italiano"
- HUN_fascism_party:0 "NYKP"
- HUN_fascism_party_long:0 "Nyilaskeresztes Párt – Hungarista Mozgalom"
- HUN_neutrality_party:0 "NEP"
- HUN_neutrality_party_long:0 "Nemzeti Egység Pártja"
- HUN_neutrality_party_PHL:0 "MEP"
- HUN_neutrality_party_PHL_long:0 "Magyar Élet Pártja"
