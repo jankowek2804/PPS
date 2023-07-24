@@ -101,6 +101,28 @@
  AUS_nationalconservatism_party:0 "FPÖ"
  AUS_liberalism_party:0 "NEOS"
 
+###DENMARK
+
+ DEN_socdem_party:0 "Social Democrats"
+ DEN_democratic_party:0 "Venstre"
+ DEN_socialliberalism_party:0 "Social Liberals"
+ DEN_demsoc_party:0 "Green Left"
+ DEN_nationalliberalism_party:0 "Denmark Democrats + The Conservatives"
+ DEN_liberalism_party:0 "Liberal Alliance"
+ DEN_socialism_party:0 "Red-Green Alliance"
+ DEN_neutrality_party:0 "Danish People's Party"
+ DEN_progressivism_party:0 "Alternative"
+ DEN_nationalconservatism_party:0 "New Right"
+
+###SWEDEN
+
+ SWE_democratic_party:0 "Moderate Party + Christian Democrats + Liberals (kurwy)"
+ SWE_neutrality_party:0 "Sweden Democrats (xd)"
+ SWE_socdem_party:0 "Social Democrats"
+ SWE_socialism_party:0 "Left Party"
+ SWE_liberalism_party:0 "Centre Party"
+ SWE_progressivism_party:0 "Green Party"
+
  communism:0 "Marksizm-Leninizm"
  communism_noun:0 "Marksizm-Leninizm"
  democratic:0 "Konserwatyzm"
