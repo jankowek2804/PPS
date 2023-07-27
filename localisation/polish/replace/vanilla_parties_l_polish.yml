@@ -160,6 +160,16 @@
  LAT_socdem_party:0 "P"
  LAT_nationalliberalism_party:0 "S! + LPV"
 
+###HUNGARY
+
+ HUN_nationalconservatism_party:0 "Fidesz-KDNP"
+ HUN_socialliberalism_party:0 "DK"
+ HUN_liberalism_party:0 "Momentum"
+ HUN_socdem_party:0 "MSZP"
+ HUN_progressivism_party:0 "Dialogue + LMP"
+ HUN_democratic_party:0 "Jobbik"
+ HUN_neutrality_party:0 "MHM"
+
  communism:0 "Marksizm-Leninizm"
  communism_noun:0 "Marksizm-Leninizm"
  democratic:0 "Konserwatyzm"
