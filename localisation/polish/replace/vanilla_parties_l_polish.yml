@@ -116,7 +116,7 @@
 
 ###SWEDEN
 
- SWE_democratic_party:0 "Moderate Party + Christian Democrats + Liberals (kurwy)"
+ SWE_democratic_party:0 "Moderate Party + Christian Democrats + Liberals"
  SWE_neutrality_party:0 "Sweden Democrats (xd)"
  SWE_socdem_party:0 "Social Democrats"
  SWE_socialism_party:0 "Left Party"
@@ -136,7 +136,29 @@
 
 ###FINLAND
 
- 
+ FIN_nationalliberalism_party:0 "National Coalition + Swedish People's Party"
+ FIN_nationalconservatism_party:0 "Finns Party + Christian Democrats"
+ FIN_socdem_party:0 "Social Democratic Party"
+ FIN_liberalism_party:0 "Centre Party"
+ FIN_progressivism_party:0 "Green League"
+ FIN_socialism_party:0 "Left Alliance"
+
+###ESTONIA
+
+ EST_liberalism_party:0 "Reform + E200"
+ EST_socdem_party:0 "SDE"
+ EST_neutrality_party:0 "EKRE"
+ EST_socialliberalism_party:0 "Centre"
+ EST_nationalconservatism_party:0 "Isamaa"
+
+###LATVIA
+
+ LAT_liberalism_party:0 "JV"
+ LAT_democratic_party:0 "AS"
+ LAT_nationalconservatism_party:0 "NA"
+ LAT_neutrality_party:0 "ZZS"
+ LAT_socdem_party:0 "P"
+ LAT_nationalliberalism_party:0 "S! + LPV"
 
  communism:0 "Marksizm-Leninizm"
  communism_noun:0 "Marksizm-Leninizm"

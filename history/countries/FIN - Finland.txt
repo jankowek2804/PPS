@@ -38,17 +38,25 @@ if = {
 
 set_convoys = 5
 
+create_country_leader = {
+	name = "Petteri Orpo"
+	ideology = national_liberalism_ideology
+	picture = "Portrait_Finland_Petteri_Orpo.dds"
+}
+
 set_politics = {
-	ruling_party = democratic
-	last_election = "1933.7.1"
-	election_frequency = 36
+	ruling_party = nationalliberalism
+	last_election = "2023.4.2"
+	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 10
-	fascism = 10
-	communism = 1
-	neutrality = 79
+	nationalliberalism = 29
+	nationalconservatism = 26
+	socdem = 22
+	liberalism = 11
+	progressivism = 6
+	socialism = 6
 }
 
 ### VARIANTS ###
