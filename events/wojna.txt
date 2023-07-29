@@ -47,3 +47,61 @@ country_event = {
 		add_core_of = LEW}
 	}
 }
+country_event = {
+	id = wojna.3
+	title = "Odłączenie Kukiza"
+	desc = wojna.3.d
+	picture = GFX_news_event_polska_w_chaosie
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "CO SIE DZIEJE"
+		1629 = { transfer_state_to = KUK
+		add_core_of = KUK}
+		1627 = { transfer_state_to = KUK
+		add_core_of = KUK}
+		339 = { transfer_state_to = KUK
+		add_core_of = KUK}
+		1648 = { transfer_state_to = KUK
+		add_core_of = KUK}
+		1649 = { transfer_state_to = KUK
+		add_core_of = KUK}
+		1647 = { transfer_state_to = KUK
+		add_core_of = KUK}
+	}
+}
+country_event = {
+	id = wojna.4
+	title = "Odłączenie Lechitów"
+	desc = wojna.4.d
+	picture = GFX_news_event_polska_w_chaosie
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "CO SIE DZIEJE"
+		2595 = { transfer_state_to = LEH
+		add_core_of = LEH}
+		1646 = { transfer_state_to = LEH
+		add_core_of = LEH}
+		1667 = { transfer_state_to = LEH
+		add_core_of = LEH}
+		1668 = { transfer_state_to = LEH
+		add_core_of = LEH}
+		2562 = { transfer_state_to = LEH
+		add_core_of = LEH}
+		1666 = { transfer_state_to = LEH
+		add_core_of = LEH}
+		415 = { transfer_state_to = LEH
+		add_core_of = LEH}
+		1980 = { transfer_state_to = LEH
+		add_core_of = LEH}
+		2593 = { transfer_state_to = LEH
+		add_core_of = LEH}
+		1664 = { transfer_state_to = LEH
+		add_core_of = LEH}
+		1665 = { transfer_state_to = LEH
+		add_core_of = LEH}
+	}
+}

@@ -1,4 +1,6 @@
 ###MODDED
+LEH = "countries/Lechia.txt"
+KUK = "countries/Kukiz.txt"
 SLD = "countries/SLD.txt"
 LEW = "countries/Lewica.txt"
 

@@ -9,7 +9,14 @@
     LEW:0 "Lewica Razem"
     LEW_DEF:0 "Lewica Razem"
     LEW_ADJ:0 "Razemkowy"
-
+ ###KUKIZ
+    KUK:0 "Bezpośrednia Polska"
+    KUK_DEF:0 "Bezpośrednia Polska"
+    KUK_ADJ:0 "Kukizowy"
+ ###LECHIA
+    LEH:0 "Wielka Lechia"
+    LEH_DEF:0 "Wielka Lechia"
+    LEH_ADJ:0 "Lechicki"
 
  ###Abchazja
 

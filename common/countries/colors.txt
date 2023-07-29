@@ -1,4 +1,12 @@
 #reload countrycolors
+LEH = {
+	color = rgb {255 0 0}
+	color_ui = rgb {255 0 0}
+}
+KUK = {
+	color = rgb {255 255 255}
+	color_ui = rgb {255 255 255}
+}
 SLD = {
 	color = rgb { 168 50 72}
 	color_ui = rgb {168 50 72 }
