@@ -1,4 +1,12 @@
 #reload countrycolors
+SLD = {
+	color = rgb { 168 50 72}
+	color_ui = rgb {168 50 72 }
+}
+LEW = {
+	color = rgb {135 15 87}
+	color_ui = rgb {135 15 87}
+}
 CAN = {
 	color = rgb { 76 145 63 }
 	color_ui = rgb { 99 189 82 }

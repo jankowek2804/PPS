@@ -1,0 +1,49 @@
+add_namespace = wojna
+
+
+country_event = {
+	id = wojna.1
+	title = "Odłączenie SLD"
+	desc = wojna.1.d
+	picture = GFX_news_event_polska_w_chaosie
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "CO SIE DZIEJE"
+		1631 = { transfer_state_to = SLD
+		add_core_of = SLD}
+		1636 = { transfer_state_to = SLD
+		add_core_of = SLD}
+		295 = { transfer_state_to = SLD
+		add_core_of = SLD}
+		1630 = { transfer_state_to = SLD
+		add_core_of = SLD}
+		1626 = { transfer_state_to = SLD
+		add_core_of = SLD}
+		273 = { transfer_state_to = SLD
+		add_core_of = SLD}
+	}
+}
+country_event = {
+	id = wojna.2
+	title = "Odłączenie Lewicy"
+	desc = wojna.2.d
+	picture = GFX_news_event_polska_w_chaosie
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = "CO SIE DZIEJE"
+		1625 = { transfer_state_to = LEW
+		add_core_of = LEW}
+		2560 = { transfer_state_to = LEW
+		add_core_of = LEW}
+		1628 = { transfer_state_to = LEW
+		add_core_of = LEW}
+		2559 = { transfer_state_to = LEW
+		add_core_of = LEW}
+		263 = { transfer_state_to = LEW
+		add_core_of = LEW}
+	}
+}

@@ -1,4 +1,15 @@
 ﻿l_polish:
+ ###MODDED
+
+ ###SLD
+    SLD:0 "Sojusz Lewicy Demokratycznej"
+    SLD_DEF:0 "Sojusz Lewicy Demokratycznej"
+    SLD_ADJ:0 "Lewicowy"
+ ###LEWICA
+    LEW:0 "Lewica Razem"
+    LEW_DEF:0 "Lewica Razem"
+    LEW_ADJ:0 "Razemkowy"
+
 
  ###Abchazja
 

@@ -1,3 +1,8 @@
+###MODDED
+SLD = "countries/SLD.txt"
+LEW = "countries/Lewica.txt"
+
+
 ###Base Tags - do not remove
 JAP	= "countries/Japan.txt"
 GER	= "countries/Germany.txt"
