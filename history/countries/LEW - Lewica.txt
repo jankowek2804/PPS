@@ -58,14 +58,20 @@ if = {
 
 set_convoys = 10
 
+create_country_leader = {
+	name = "Robert Biedroń"
+	ideology = socdem_ideology
+	picture = "Portrait_Lewica_Robert_Biedron.dds"
+}
+
 set_politics = {
-	ruling_party = demsoc
+	ruling_party = socdem
 	last_election = "2019.10.13"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	demsoc = 100
+	socdem = 100
 }
 
 
