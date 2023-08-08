@@ -1,0 +1,80 @@
+﻿l_polish:
+ ###MODDED
+
+ ###SLD
+    SLD:0 "Sojusz Lewicy Demokratycznej"
+    SLD_DEF:0 "Sojusz Lewicy Demokratycznej"
+    SLD_ADJ:0 "Lewicowy"
+ ###LEWICA
+    LEW:0 "Lewica Razem"
+    LEW_DEF:0 "Lewica Razem"
+    LEW_ADJ:0 "Razemkowy"
+ ###KUKIZ
+    KUK:0 "Bezpośrednia Polska"
+    KUK_DEF:0 "Bezpośrednia Polska"
+    KUK_ADJ:0 "Kukizowy"
+ ###LECHIA
+    LEH:0 "Wielka Lechia"
+    LEH_DEF:0 "Wielka Lechia"
+    LEH_ADJ:0 "Lechicki"
+  ###AKAPKI
+    P01:0 "Anarcho-Kapitaliści"
+    P01_DEF:0 "Anarcho-Kapitaliści"
+    P01_ADJ:0 "Akapowy"
+ ###P.2050
+    P02:0 "Polska 2050"
+    P02_DEF:0 "Polska 2050"
+    P02_ADJ:0 "Polski 2050"
+ ###JASZCZUR
+    P03:0 "Związek Jaszczurczy"
+    P03_DEF:0 "Związek Jaszczurczy"
+    P03_ADJ:0 "Związku Jaszczurczego"
+ ###KONON
+    P04:0 "Podlasie"
+    P04_DEF:0 "Podlasie"
+    P04_ADJ:0 "Podlaski"
+ ###KOMUCHY
+    P05:0 "Polska Rzeczpospolita Ludowa"
+    P05_DEF:0 "Polska Rzeczpospolita Ludowa"
+    P05_ADJ:0 "PRL-owski"
+ ###MONACHIA
+    P06:0 "Królewstwo Polski"
+    P06_DEF:0 "Królestwo Polski"
+    P06_ADJ:0 "Królewstwa Polskiego"
+ ###MORDAWIECKI
+    P07:0 "Front Stabilizacji Narodu"
+    P07_DEF:0 "Front Stabilizacji Narodu"
+    P07_ADJ:0 "Morawieckiego"
+ ###PSL
+    P08:0 "Polskie Stronnictwo Ludowe"
+    P08_DEF:0 "Polskie Stronnictwo Ludowe"
+    P08_ADJ:0 "PSL-owski"
+ ###Rydzyk
+    P09:0 "Polskie Państwo Kościelne"
+    P09_DEF:0 "Polskie Państwo Kościelne"
+    P09_ADJ:0 "Polskiego Państwa Kościelnego"
+ ###Staśko
+    P10:0 "Ruch Kobiet"
+    P10_DEF:0 "Ruch Kobiet"
+    P10_ADJ:0 "Ruchu Kobiet"
+ ###Stonoga
+    P11:0 "Ruch poparcia Zbigniewa Stonogi"
+    P11_DEF:0 "Ruch poparcia Zbigniewa Stonogi"
+    P11_ADJ:0 "Stonogii"
+ ###Trzaskowski
+    P12:0 "Wolne Miasto Warszawa"
+    P12_DEF:0 "Wolne Miasto Warszawa"
+    P12_ADJ:0 "Trzaskowskiego"
+ ###Tusk
+    P13:0 "Platforma Obywatelska"
+    P13_DEF:0 "Platforma Obywatelska"
+    P13_ADJ:0 "PO-wski"
+ ###Walęsa
+    P14:0 "Solidarność"
+    P14_DEF:0 "Solidarność"
+    P14_ADJ:0 "Walęsy"
+ ###Walęsa
+    P15:0 "Solidarna Polska"
+    P15_DEF:0 "Solidarna Polska"
+    P15_ADJ:0 "Solidarnej Polskii"
+    
