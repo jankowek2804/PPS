@@ -1,0 +1,50 @@
+@tier1 = 30
+@tier2 = 20
+@tier3 = 10
+
+leader_traits = {
+#LECHIA#
+	POL_Lechita = {
+		random = no
+		political_power_factor = 0.15
+		army_core_attack_factor = 0.05
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	POL_Plaskoziemca = {
+		random = no
+		political_power_factor = -0.05
+		research_speed_factor = -0.15
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	POL_Uznany_Plaskoziemca = {
+		random = no
+		political_power_factor = 0.05
+		research_speed_factor = -0.1
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	POL_Anty_PiS = {
+		random = no
+		political_power_factor = 0.1
+		targeted_modifier = {
+			tag = P16
+			attack_bonus_against = 0.15
+			defense_bonus_against = 0.1
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}
