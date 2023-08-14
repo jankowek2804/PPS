@@ -73,8 +73,11 @@
     P14:0 "Solidarność"
     P14_DEF:0 "Solidarność"
     P14_ADJ:0 "Walęsy"
- ###Walęsa
+ ###Ziobro
     P15:0 "Solidarna Polska"
     P15_DEF:0 "Solidarna Polska"
     P15_ADJ:0 "Solidarnej Polskii"
-    
+ ###Kaczor
+    P16:0 "Państwo Dobrobytu"
+    P16_DEF:0 "Państwo Dobrobytu"
+    P16_ADJ:0 "Kaczyńskiego"
