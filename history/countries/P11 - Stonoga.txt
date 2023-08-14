@@ -1,4 +1,4 @@
-﻿capital = 415
+﻿capital = 503
 
 set_research_slots = 3
 # Starting tech
@@ -55,22 +55,32 @@ if = {
 	}
 }
 
-recruit_character = POL_Sanjaya 
+recruit_character = POL_Stonoga
 
 
 set_convoys = 10
 
 set_politics = {
-	ruling_party = monarchism 
+	ruling_party = marketliberalism
 	last_election = "2022.10.13"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	monarchism = 60
-	fascism = 10
-	neutrality = 15
-	democratic = 5
+	marketliberalism = 40
+	nationalconservatism = 12
+	neoliberalism = 10
+	democratic = 8
+	libertarianism = 7
+	neutrality = 5
+	nationalliberalism = 5
+	korwinizm = 3
+	fascism = 2
+	minarchism = 2
+	socialliberalism = 2
+	socialism = 2
+	korwinizm = 1
+	nazism = 1
 }
 
 ### VARIANTS ###
